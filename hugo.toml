@@ -1,4 +1,5 @@
-baseurl = "/"
+# provide a base url for github pages where repo named my_blog
+baseURL = "https://t3m14.github.io/my_blog/"
 languageCode = "ru-ru"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -90,14 +91,14 @@ defaultContentLanguage = 'ru'
 
     [languages.ru.params.logo]
       logoText = "T3M14"
-      logoHomeLink = "/"
+      logoHomeLink = "/my_blog"
 
     [languages.ru.menu]
       [[languages.ru.menu.main]]
         identifier = "about"
         name = "О сайте"
-        url = "/about"
+        url = "my_blog   /about"
       [[languages.ru.menu.main]]
         identifier = "showcase"
         name = "Портфолио"
-        url = "/showcase"
+        url = "my_blog   /showcase"

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/my_blog/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 06 Feb 2025 13:27:42 +0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Feb 2025 13:27:42 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Первый пост</title>
-      <link>//localhost:1313/posts/first-post/my-first-post/</link>
+      <link>http://localhost:1313/my_blog/posts/first-post/my-first-post/</link>
       <pubDate>Thu, 06 Feb 2025 13:27:42 +0300</pubDate>
       
-      <guid>//localhost:1313/posts/first-post/my-first-post/</guid>
+      <guid>http://localhost:1313/my_blog/posts/first-post/my-first-post/</guid>
       <description>&lt;p&gt;Я планирую добавить сюда позже некоторые фичи. Сейчас я уже начинаю над этим работать. В идеале, этот блог должен будет охватить все мои сферы жизни и помочь мне поделиться своими идеями и своим творчеством.&lt;/p&gt;</description>
       <content>&lt;p&gt;Я планирую добавить сюда позже некоторые фичи. Сейчас я уже начинаю над этим работать. В идеале, этот блог должен будет охватить все мои сферы жизни и помочь мне поделиться своими идеями и своим творчеством.&lt;/p&gt;
 </content>
