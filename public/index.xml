@@ -6,7 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Feb 2025 20:35:43 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Feb 2025 20:00:57 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Как создать свой блог бесплатно</title>
       <link>http://localhost:1313/my_blog/posts/2/</link>
@@ -28,6 +28,17 @@
       <guid>http://localhost:1313/my_blog/posts/first-post/my-first-post/</guid>
       <description>&lt;p&gt;Я планирую добавить сюда позже некоторые фичи. Сейчас я уже начинаю над этим работать. В идеале, этот блог должен будет охватить все мои сферы жизни и помочь мне поделиться своими идеями и своим творчеством.&lt;/p&gt;</description>
       <content>&lt;p&gt;Я планирую добавить сюда позже некоторые фичи. Сейчас я уже начинаю над этим работать. В идеале, этот блог должен будет охватить все мои сферы жизни и помочь мне поделиться своими идеями и своим творчеством.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/my_blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/about/</guid>
+      <description>&lt;p&gt;dafsdf&lt;/p&gt;</description>
+      <content>&lt;p&gt;dafsdf&lt;/p&gt;
 </content>
     </item>
     
