@@ -105,4 +105,4 @@ defaultContentLanguage = 'ru'
       [[languages.ru.menu.main]]
         identifier = "showcase"
         name = "Портфолио"
-        url = "/showcase"
+        url = "/showcase/"
