@@ -20,7 +20,7 @@ defaultContentLanguage = 'ru'
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -106,3 +106,7 @@ defaultContentLanguage = 'ru'
         identifier = "showcase"
         name = "Портфолио"
         url = "/showcase/"
+      [[languages.ru.menu.main]]
+        identifier = "future"
+        name = "Планы на будущее"
+        url = "/future/"

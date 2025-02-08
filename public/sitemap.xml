@@ -40,5 +40,7 @@
     <loc>http://localhost:1313/my_blog/showcase/</loc>
   </url><url>
     <loc>http://localhost:1313/my_blog/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/my_blog/future/</loc>
   </url>
 </urlset>
