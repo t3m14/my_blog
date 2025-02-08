@@ -7,7 +7,8 @@ theme = "re-terminal"
 pagination.pagerSize = 5
 defaultContentLanguage = 'ru'
 [permalinks]
-  showcase = "/showcase/:slug/"
+  showcase = "/showcase/"
+  about = "/about/"
 
 [params]
   author = "T3M14"
@@ -94,14 +95,14 @@ defaultContentLanguage = 'ru'
 
     [languages.ru.params.logo]
       logoText = "T3M14"
-      logoHomeLink = "/my_blog"
+      logoHomeLink = "/my_blog/"
 
     [languages.ru.menu]
       [[languages.ru.menu.main]]
         identifier = "about"
         name = "О сайте"
-        url = "about"
+        url = "/about/"
       [[languages.ru.menu.main]]
         identifier = "showcase"
         name = "Портфолио"
-        url = "showcase"
+        url = "/showcase"
