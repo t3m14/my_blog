@@ -4,3 +4,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/terminalcv"]
+	path = themes/terminalcv
+	url = https://github.com/4s3ti/terminalcv.git
+[submodule "content/showcase/themes/terminalcv"]
+	path = content/showcase/themes/terminalcv
+	url = https://github.com/4s3ti/terminalcv.git

@@ -6,6 +6,9 @@ languageCode = "ru-ru"
 theme = "re-terminal"
 pagination.pagerSize = 5
 defaultContentLanguage = 'ru'
+[permalinks]
+  showcase = "/showcase/:slug/"
+
 [params]
   author = "T3M14"
   # dir name of your main content (default is `content/posts`).

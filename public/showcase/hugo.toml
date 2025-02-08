@@ -1,0 +1,9 @@
+[module]
+[[module.imports]]
+path = "terminalcv"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params.showcase]
+theme = "terminalcv"
