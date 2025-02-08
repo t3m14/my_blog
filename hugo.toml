@@ -97,8 +97,8 @@ defaultContentLanguage = 'ru'
       [[languages.ru.menu.main]]
         identifier = "about"
         name = "О сайте"
-        url = "my_blog   /about"
+        url = "about"
       [[languages.ru.menu.main]]
         identifier = "showcase"
         name = "Портфолио"
-        url = "my_blog   /showcase"
+        url = "showcase"

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>http://localhost:1313/my_blog/</link>
-    <description>Recent content on </description>
+    <title>Разработка on </title>
+    <link>http://localhost:1313/my_blog/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/</link>
+    <description>Recent content in Разработка on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Feb 2025 20:35:43 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Feb 2025 20:00:57 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/tags/%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Как создать свой блог бесплатно</title>
       <link>http://localhost:1313/my_blog/posts/2/</link>
@@ -17,17 +17,6 @@
       <content>&lt;p&gt;Я долгое время думал над тем как создать свой блог. Таким образом я наткнулся на &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. Сначала я хотел реализовать свой блог на &lt;a href=&#34;https://www.djangoproject.com/&#34;&gt;Django&lt;/a&gt;, но потом я понял, что это не так просто. Потом я наткнулся на &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; и решил попробовать. Это оказалось гораздо проще, чем я думал. Развертывание на github pages было очень простым. Оно заняло не более часа в общей сложности. Теперь я планрую выкладывать сюда самые интересные вещи на которые я натыкался в последнее время. Так же, как например, сейчас я вам рассказываю о своем блоге).&lt;/p&gt;
 &lt;p&gt;Сейчас я думаю  над тем как реализовать возможность интеграции с &lt;a href=&#34;https://telegram.org/&#34;&gt;Telegram&lt;/a&gt;. Потому что сейчас личные блоги в телеграм очень распространены и набирают достаточные охваты, в отличии от сайтов, которые очень сложно раскрутить. Поскольку Hugo использует формат markdown файлов для создания постов, то я думаю, что это будет не так сложно. Потому что телеграм поддерживает этот формат в своих сообщениях, и публикации постов стилистически (в плане текстов) будут очень схожи.&lt;/p&gt;
 &lt;p&gt;Позже я обязательно расскажу как я реализовал это. Пожалуй, в ближайшее время, стоит завести отдельную страницу, с планами на будущее. Но об этом я расскажу в следующий раз.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Первый пост</title>
-      <link>http://localhost:1313/my_blog/posts/first-post/my-first-post/</link>
-      <pubDate>Thu, 06 Feb 2025 13:27:42 +0300</pubDate>
-      
-      <guid>http://localhost:1313/my_blog/posts/first-post/my-first-post/</guid>
-      <description>&lt;p&gt;Я планирую добавить сюда позже некоторые фичи. Сейчас я уже начинаю над этим работать. В идеале, этот блог должен будет охватить все мои сферы жизни и помочь мне поделиться своими идеями и своим творчеством.&lt;/p&gt;</description>
-      <content>&lt;p&gt;Я планирую добавить сюда позже некоторые фичи. Сейчас я уже начинаю над этим работать. В идеале, этот блог должен будет охватить все мои сферы жизни и помочь мне поделиться своими идеями и своим творчеством.&lt;/p&gt;
 </content>
     </item>
     
