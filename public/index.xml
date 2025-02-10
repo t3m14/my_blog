@@ -6,7 +6,18 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 10 Feb 2025 10:40:57 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 10:54:16 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Я опять остался без аккаунта в телеграм.</title>
+      <link>http://localhost:1313/my_blog/posts/5/</link>
+      <pubDate>Mon, 10 Feb 2025 10:54:16 +0300</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/posts/5/</guid>
+      <description>&lt;p&gt;Ссылка появится под этим постом и в разделе о сайте.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Ссылка появится под этим постом и в разделе о сайте.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Про GIMP</title>
       <link>http://localhost:1313/my_blog/posts/4/</link>
@@ -54,7 +65,7 @@
 &lt;li&gt;После этого вы можете создавать темы, которые будут создавать вы будете использовать в дальнейшем.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;hahahugoshortcode6s0hbhb&#34;&gt;Как я организовал структуру своего чата:
+&lt;h2 id=&#34;hahahugoshortcode4s0hbhb&#34;&gt;Как я организовал структуру своего чата:
 
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;http://localhost:1313/my_blog/images/3/valorant_topics.png&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
@@ -77,7 +88,7 @@
 &lt;li&gt;После этого вы можете создавать темы, которые будут создавать вы будете использовать в дальнейшем.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;hahahugoshortcode6s0hbhb&#34;&gt;Как я организовал структуру своего чата:
+&lt;h2 id=&#34;hahahugoshortcode4s0hbhb&#34;&gt;Как я организовал структуру своего чата:
 
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;http://localhost:1313/my_blog/images/3/valorant_topics.png&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
@@ -205,8 +216,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/my_blog/about/</guid>
-      <description>&lt;p&gt;Этот сайт создан с помощью &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; и &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. Я создал этот блог для того, чтобы поделиться с вами своими мыслями и опытом. Вы можете найти меня в телеграм &lt;a href=&#34;https://t.me/t3m14_174&#34;&gt;@t3m14_174&lt;/a&gt;.&lt;/p&gt;</description>
-      <content>&lt;p&gt;Этот сайт создан с помощью &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; и &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. Я создал этот блог для того, чтобы поделиться с вами своими мыслями и опытом. Вы можете найти меня в телеграм &lt;a href=&#34;https://t.me/t3m14_174&#34;&gt;@t3m14_174&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Этот сайт создан с помощью &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; и &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. Я создал этот блог для того, чтобы поделиться с вами своими мыслями и опытом. Вы можете найти меня в телеграм &lt;del&gt;@t3m14_174&lt;/del&gt;.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Этот сайт создан с помощью &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; и &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. Я создал этот блог для того, чтобы поделиться с вами своими мыслями и опытом. Вы можете найти меня в телеграм &lt;del&gt;@t3m14_174&lt;/del&gt;.&lt;/p&gt;
 </content>
     </item>
     
