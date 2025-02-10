@@ -6,7 +6,20 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 08 Feb 2025 11:21:31 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 10:40:57 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Про GIMP</title>
+      <link>http://localhost:1313/my_blog/posts/4/</link>
+      <pubDate>Mon, 10 Feb 2025 10:40:57 +0300</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/posts/4/</guid>
+      <description>&lt;h1 id=&#34;что-такое-gimp&#34;&gt;Что такое GIMP?&lt;/h1&gt;
+&lt;p&gt;GIMP (GNU Image Manipulation Program) - это бесплатная программа для редактирования изображений. Она позволяет редактировать фотографии, создавать графические элементы и многое другое. GIMP имеет множество функций, которые позволяют пользователям редактировать изображения с высокой точностью. Короче, это полноценный фотошоп. Только бесплатный, с открытым исходным кодом, и возможностью устанавливать дополнительные плагины.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;что-такое-gimp&#34;&gt;Что такое GIMP?&lt;/h1&gt;
+&lt;p&gt;GIMP (GNU Image Manipulation Program) - это бесплатная программа для редактирования изображений. Она позволяет редактировать фотографии, создавать графические элементы и многое другое. GIMP имеет множество функций, которые позволяют пользователям редактировать изображения с высокой точностью. Короче, это полноценный фотошоп. Только бесплатный, с открытым исходным кодом, и возможностью устанавливать дополнительные плагины.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Valorant чат</title>
       <link>http://localhost:1313/my_blog/posts/3/</link>
@@ -20,7 +33,7 @@
 &lt;li&gt;После этого вы можете создавать темы, которые будут создавать вы будете использовать в дальнейшем.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;hahahugoshortcode20s0hbhb&#34;&gt;Как я организовал структуру своего чата:
+&lt;h2 id=&#34;hahahugoshortcode6s0hbhb&#34;&gt;Как я организовал структуру своего чата:
 
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;http://localhost:1313/my_blog/images/3/valorant_topics.png&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
@@ -43,7 +56,7 @@
 &lt;li&gt;После этого вы можете создавать темы, которые будут создавать вы будете использовать в дальнейшем.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;hahahugoshortcode20s0hbhb&#34;&gt;Как я организовал структуру своего чата:
+&lt;h2 id=&#34;hahahugoshortcode6s0hbhb&#34;&gt;Как я организовал структуру своего чата:
 
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;http://localhost:1313/my_blog/images/3/valorant_topics.png&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 8px;&#34;  /&gt;
