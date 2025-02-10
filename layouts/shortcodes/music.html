@@ -1,0 +1,1093 @@
+<!-- {{ $src := .Get "src" }}
+{{ $artist := .Get "artist" }}
+{{ $title := .Get "title" }}
+{{ $cover := .Get "cover" }}
+<div class="music_container">
+    {{ if $cover }}
+    <div class="music_cover">
+        <img src="{{ $cover }}" alt="{{ $artist }} - {{ $title }}">
+    </div>
+    {{ end }}
+    <div class="music_info">
+        {{ if $artist }}<div class="music_artist">{{ $artist }}</div>{{ end }}
+        {{ if $title }}<div class="music_title">{{ $title }}</div>{{ end }}
+    </div>
+    <audio controls>
+        <source src="{{ $src }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div> -->
+
+
+
+<div positon="center" style="width: 300px;height: 400px;display: flex;flex-direction: column;align-items: center;justify-content: center;margin: 0 auto;">
+    <audio id="audio">
+        <source src="/my_blog/audio/Dominique Mara - pepupape.mp3" type="audio/mpeg">
+    </audio>
+    <div class="svgs">
+        <svg class="svg-icon" viewBox="0 0 20 20" class="s" id="son">
+            <path d="M17.969,10c0,1.707-0.5,3.366-1.446,4.802c-0.076,0.115-0.203,0.179-0.333,0.179c-0.075,0-0.151-0.022-0.219-0.065c-0.184-0.122-0.233-0.369-0.113-0.553c0.86-1.302,1.314-2.812,1.314-4.362s-0.454-3.058-1.314-4.363c-0.12-0.183-0.07-0.43,0.113-0.552c0.186-0.12,0.432-0.07,0.552,0.114C17.469,6.633,17.969,8.293,17.969,10 M15.938,10c0,1.165-0.305,2.319-0.88,3.339c-0.074,0.129-0.21,0.201-0.347,0.201c-0.068,0-0.134-0.016-0.197-0.052c-0.191-0.107-0.259-0.351-0.149-0.542c0.508-0.9,0.776-1.918,0.776-2.946c0-1.028-0.269-2.046-0.776-2.946c-0.109-0.191-0.042-0.434,0.149-0.542c0.193-0.109,0.436-0.042,0.544,0.149C15.634,7.681,15.938,8.834,15.938,10 M13.91,10c0,0.629-0.119,1.237-0.354,1.811c-0.063,0.153-0.211,0.247-0.368,0.247c-0.05,0-0.102-0.01-0.151-0.029c-0.203-0.084-0.301-0.317-0.217-0.521c0.194-0.476,0.294-0.984,0.294-1.508s-0.1-1.032-0.294-1.508c-0.084-0.203,0.014-0.437,0.217-0.52c0.203-0.084,0.437,0.014,0.52,0.217C13.791,8.763,13.91,9.373,13.91,10 M11.594,3.227v13.546c0,0.161-0.098,0.307-0.245,0.368c-0.05,0.021-0.102,0.03-0.153,0.03c-0.104,0-0.205-0.04-0.281-0.117l-3.669-3.668H2.43c-0.219,0-0.398-0.18-0.398-0.398V7.012c0-0.219,0.179-0.398,0.398-0.398h4.815l3.669-3.668c0.114-0.115,0.285-0.149,0.435-0.087C11.496,2.92,11.594,3.065,11.594,3.227 M7.012,7.41H2.828v5.18h4.184V7.41z M10.797,4.189L7.809,7.177v5.646l2.988,2.988V4.189z"></path>
+        </svg>
+        <svg class="svg-icon" viewBox="0 0 20 20" id="soff">
+            <path d="M18.084,11.639c0.168,0.169,0.168,0.442,0,0.611c-0.084,0.084-0.195,0.127-0.306,0.127c-0.111,0-0.221-0.043-0.306-0.127l-1.639-1.639l-1.639,1.639c-0.084,0.084-0.195,0.127-0.306,0.127c-0.111,0-0.222-0.043-0.307-0.127c-0.168-0.169-0.168-0.442,0-0.611L15.223,10l-1.64-1.639c-0.168-0.168-0.168-0.442,0-0.61c0.17-0.169,0.442-0.169,0.612,0l1.639,1.639l1.639-1.639c0.169-0.169,0.442-0.169,0.611,0c0.168,0.168,0.168,0.442,0,0.61L16.445,10L18.084,11.639z M12.161,2.654v14.691c0,0.175-0.105,0.333-0.267,0.4c-0.054,0.021-0.109,0.032-0.166,0.032c-0.111,0-0.223-0.043-0.305-0.127l-3.979-3.979H2.222c-0.237,0-0.432-0.194-0.432-0.432V6.759c0-0.237,0.195-0.432,0.432-0.432h5.222l3.979-3.978c0.123-0.125,0.309-0.163,0.471-0.095C12.056,2.322,12.161,2.479,12.161,2.654 M7.192,7.192H2.654v5.617h4.538V7.192z M11.296,3.698l-3.24,3.241v6.123l3.24,3.24V3.698z"></path>
+        </svg>
+    </div>
+    <div class="shadows">
+        <div class="shadow-1" id="shadow"></div>
+        <div class="shadow-2"></div>
+    </div>
+    <div class="radio" id="radio">
+        <div class="bf">
+            <div class="bf__front face"></div>
+            <div class="bf__back face"></div>
+            <div class="bf__right face"></div>
+            <div class="bf__left face"></div>
+            <div class="bf__top face"></div>
+            <div class="bf__bottom face"></div>
+        </div>
+        <div class="ffa">
+            <div class="ffa__front face">
+                <div class="ffa__front-circles" id="circles"></div>
+            </div>
+            <div class="ffa__right face">
+                <div class="range">
+                    <div class="range__front face"></div>
+                    <div class="range__back face"></div>
+                    <div class="range__right face"></div>
+                    <div class="range__left face"></div>
+                    <div class="range__top face"></div>
+                    <div class="range__bottom face"></div>
+                </div>
+            </div>
+            <div class="ffa__left face"></div>
+            <div class="ffa__top face"></div>
+            <div class="ffa__bottom face"></div>
+        </div>
+        <div class="ffb">
+            <div class="ffb__front face"></div>
+            <div class="ffb__right face"></div>
+            <div class="ffb__left face"></div>
+            <div class="ffb__top face"></div>
+            <div class="ffb__bottom face"></div>
+        </div>
+        <div class="ffc">
+            <div class="ffc__front face"></div>
+            <div class="ffc__right face"></div>
+            <div class="ffc__left face"></div>
+            <div class="ffc__top face"></div>
+            <div class="ffc__bottom face"></div>
+        </div>
+        <div class="ffd">
+            <div class="ffd__front face"></div>
+            <div class="ffd__right face"></div>
+            <div class="ffd__left face"></div>
+            <div class="ffd__top face"></div>
+            <div class="ffd__bottom face"></div>
+        </div>
+        <div class="buttons">
+            <div class="button">
+                <div class="button__front face"></div>
+                <div class="button__back face"></div>
+                <div class="button__right face"></div>
+                <div class="button__left face"></div>
+                <div class="button__top face"></div>
+                <div class="button__bottom face"></div>
+            </div>
+            <div class="button">
+                <div class="button__front face"></div>
+                <div class="button__back face"></div>
+                <div class="button__right face"></div>
+                <div class="button__left face"></div>
+                <div class="button__top face"></div>
+                <div class="button__bottom face"></div>
+            </div>
+            <div class="button">
+                <div class="button__front face"></div>
+                <div class="button__back face"></div>
+                <div class="button__right face"></div>
+                <div class="button__left face"></div>
+                <div class="button__top face"></div>
+                <div class="button__bottom face"></div>
+            </div>
+            <div class="button button--cta" id="button-cta">
+                <div class="button__front face"></div>
+                <div class="button__back face"></div>
+                <div class="button__right face"></div>
+                <div class="button__left face"></div>
+                <div class="button__top face"></div>
+                <div class="button__bottom face"></div>
+            </div>
+        </div>
+        <div class="cover" id="cover">
+            <div class="cover-b">
+                <div class="cover-b__front face"></div>
+                <div class="cover-b__right face"></div>
+                <div class="cover-b__left face"></div>
+                <div class="cover-b__top face"></div>
+                <div class="cover-b__bottom face"></div>
+            </div>
+        </div>
+        <div class="cassete">
+            <div class="cassete__front face">
+                <div class="cassete__line"></div>
+            </div>
+            <div class="cassete__back face"></div>
+            <div class="cassete__right face"></div>
+            <div class="cassete__left face"></div>
+            <div class="cassete__top face"></div>
+            <div class="cassete__bottom face"></div>
+        </div>
+    </div>
+
+    
+    <script src="main.js"></script>
+</div>
+
+<div class="songs_list">
+    <ul class="songs">
+        <!-- <li class="song">
+            <input type="checkbox" name="song" id="song_1" class="song__checkbox">
+            <label for="song_1" class="song__title">title</label>
+            <label for="song_1"  class="song__dash">-</label>
+            <label for="song_1"  class="song__artist_name">artist</label>
+        </li> -->
+        </input>
+    </ul>
+</div>
+<style>
+     *, *::after, *::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	transform-style: preserve-3d;
+	-webkit-tap-highlight-color: transparent;
+}
+.song {
+	margin: 20px;
+    display: flex;
+    flex-direction: row; /* Изменяем направление на строку по умолчанию */
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 3px solid #78e2a0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    padding: 10px; /* Добавляем отступы для лучшего восприятия */
+}
+
+
+.song:hover {
+    transform: scale(1.1);
+}
+
+.song__checkbox {
+    display: none; 
+}
+
+.song__title,
+.song__artist_name,
+.song__dash {
+    flex: 1; /* Позволяем элементам занимать равное пространство */
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Центрируем текст по горизонтали */
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+    font-weight: 700;
+    color: #78e2a0;
+    text-align: center;
+}
+
+/* Изменяем фон при выборе */
+.song input[type=checkbox]:checked + .song {
+    background-color: green !important;
+}
+
+/* Медиазапрос для адаптивности */
+@media (max-width: 600px) {
+    .song {
+        flex-direction: column; /* Меняем направление на колонку для меньших экранов */
+        align-items: center; /* Выравниваем элементы по началу */
+    }
+
+    .song__title,
+    .song__artist_name,
+    .song__dash {
+        justify-content: flex-start; /* Выравниваем текст по левому краю */
+        width: auto; /* Убираем фиксированную ширину */
+        margin-bottom: 5px; /* Уменьшаем отступ между элементами */
+    }
+}
+
+.face {
+	position: absolute;
+}
+.svgs {
+	position: absolute;
+	z-index: 200000;
+	top: 50px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.svg-icon {
+	width: 30px;
+	height: 30px;
+}
+.svg-icon:hover {
+	transform: scale(1.1);
+}
+.svg-icon path, .svg-icon polygon, .svg-icon rect {
+	fill: white;
+}
+.svg-icon circle {
+	stroke: white;
+	stroke-width: 1;
+}
+.s {
+	display: none;
+}
+.radio, .shadows {
+	position: absolute;
+	width: 26vw;
+	height: 6vw;
+	transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-9vw);
+}
+.shadow-1 {
+	position: absolute;
+	width: 100%;
+	height: 400%;
+	bottom: 0;
+	left: 0;
+	transform-origin: bottom left;
+	transform: skewX(-10deg) translateZ(-1px);
+	background-color: #1b1b1f;
+}
+.shadow-2 {
+	position: absolute;
+	width: 102%;
+	height: 101%;
+	bottom: -3%;
+	left: -1%;
+	background-image: linear-gradient(to bottom, #010101, #1b1b1f);
+	transform: translateZ(-1px);
+}
+.bf {
+	width: 26vw;
+	height: 1.5vw;
+	position: absolute;
+}
+.bf__front {
+	width: 26vw;
+	height: 14vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-11vw);
+}
+.bf__back {
+	width: 26vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-26vw) translateY(-14vw);
+}
+.bf__right {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(26vw) translateX(-3vw) translateY(-14vw);
+}
+.bf__left {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-14vw);
+}
+.bf__top {
+	width: 26vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(14vw);
+}
+.bf__bottom {
+	width: 26vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-26vw);
+}
+.bf__front {
+	background-color: #E9EBDB;
+}
+.bf__back {
+	background-color: #AAAAAA;
+}
+.bf__right {
+	background-color: #AAAAAA;
+	border-left: 0.125vw solid #919191;
+}
+.bf__left {
+	background-color: #E9EBDB;
+	border-right: 0.125vw solid #d5d9ba;
+}
+.bf__top {
+	background-color: #DEE0D3;
+	border-bottom: 0.125vw solid #c8cbb5;
+}
+.bf__bottom {
+	background-color: #AAAAAA;
+}
+.ffa {
+	width: 12vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	right: 0;
+}
+.ffa__front {
+	width: 12vw;
+	height: 14vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-11vw);
+}
+.ffa__back {
+	width: 12vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-14vw);
+}
+.ffa__right {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-3vw) translateY(-14vw);
+}
+.ffa__left {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-14vw);
+}
+.ffa__top {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(14vw);
+}
+.ffa__bottom {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.ffa__front {
+	background-color: #E9EBDB;
+}
+.ffa__front-circles {
+	width: 100%;
+	height: 80%;
+	padding: 3vw 2vw 1vw;
+	background-image: linear-gradient(-90deg, transparent 0%, transparent 50%, #E9EBDB 50%, #E9EBDB 100%), linear-gradient(0deg, #383832 0%, #383832 50%, #E9EBDB 50%, #E9EBDB 100%);
+	background-size: .9vw .9vw;
+	background-clip: content-box;
+}
+.ffa__back {
+	background-color: #DEE0D3;
+}
+.ffa__right {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	padding-top: 3vw;
+	background-color: #AAAAAA;
+}
+.ffa__left {
+	background-color: #DEE0D3;
+}
+.ffa__top {
+	background-color: #DEE0D3;
+}
+.ffa__bottom {
+	background-color: #AAAAAA;
+}
+.range {
+	width: 0.4vw;
+	height: 0.6vw;
+	position: absolute;
+}
+.range__front {
+	width: 0.4vw;
+	height: 0.3vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(0.9vw);
+}
+.range__back {
+	width: 0.4vw;
+	height: 0.3vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-0.4vw) translateY(-0.3vw);
+}
+.range__right {
+	width: 1.2vw;
+	height: 0.3vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(0.4vw) translateX(-1.2vw) translateY(-0.3vw);
+}
+.range__left {
+	width: 1.2vw;
+	height: 0.3vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-0.3vw);
+}
+.range__top {
+	width: 0.4vw;
+	height: 1.2vw;
+	transform-origin: top left;
+	transform: translateZ(0.3vw);
+}
+.range__bottom {
+	width: 0.4vw;
+	height: 1.2vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-0.4vw);
+}
+.range__front {
+	background-color: #1d1d1a;
+}
+.range__back {
+	background-color: #2b2b26;
+}
+.range__right {
+	background-color: #2b2b26;
+}
+.range__left {
+	background-color: #383832;
+}
+.range__top {
+	background-color: #1d1d1a;
+}
+.range__bottom {
+	background-color: #1d1d1a;
+}
+.range__bottom::before {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 5vw;
+	transform: translateZ(-1px);
+	background-color: #666666;
+}
+.ffb {
+	width: 2vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	left: 0;
+}
+.ffb__front {
+	width: 2vw;
+	height: 14vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-11vw);
+}
+.ffb__back {
+	width: 2vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-2vw) translateY(-14vw);
+}
+.ffb__right {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(2vw) translateX(-3vw) translateY(-14vw);
+}
+.ffb__left {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-14vw);
+}
+.ffb__top {
+	width: 2vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(14vw);
+}
+.ffb__bottom {
+	width: 2vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-2vw);
+}
+.ffb__front {
+	background-color: #E9EBDB;
+}
+.ffb__back {
+	background-color: #DEE0D3;
+}
+.ffb__right {
+	background-color: #AAAAAA;
+}
+.ffb__left {
+	background-color: #E9EBDB;
+}
+.ffb__top {
+	background-color: #DEE0D3;
+}
+.ffb__bottom {
+	background-color: #AAAAAA;
+}
+.ffc {
+	width: 12vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	left: 2vw;
+	transform: translateZ(11vw);
+}
+.ffc__front {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(0vw);
+}
+.ffc__back {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-3vw);
+}
+.ffc__right {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-3vw) translateY(-3vw);
+}
+.ffc__left {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-3vw);
+}
+.ffc__top {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(3vw);
+}
+.ffc__bottom {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.ffc__front {
+	background-color: #E9EBDB;
+}
+.ffc__back {
+	background-color: #DEE0D3;
+}
+.ffc__right {
+	background-color: #AAAAAA;
+}
+.ffc__left {
+	background-color: #E9EBDB;
+}
+.ffc__top {
+	background-color: #DEE0D3;
+}
+.ffc__bottom {
+	background-color: #AAAAAA;
+}
+.ffd {
+	width: 12vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	left: 2vw;
+	transform: translateZ(2vw);
+}
+.ffd__front {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(0vw);
+}
+.ffd__back {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-3vw);
+}
+.ffd__right {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-3vw) translateY(-3vw);
+}
+.ffd__left {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-3vw);
+}
+.ffd__top {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(3vw);
+}
+.ffd__bottom {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.ffd__front {
+	background-color: #E9EBDB;
+}
+.ffd__back {
+	background-color: #DEE0D3;
+}
+.ffd__right {
+	background-color: #AAAAAA;
+}
+.ffd__left {
+	background-color: #E9EBDB;
+}
+.ffd__top {
+	background-color: #AAAAAA;
+}
+.ffd__bottom {
+	background-color: #AAAAAA;
+}
+.buttons {
+	position: absolute;
+	left: 2vw;
+	width: 12vw;
+	height: 50%;
+	bottom: 0;
+	transform: translateZ(0.1vw);
+}
+.button {
+	width: 2.875vw;
+	height: 1.5vw;
+	position: absolute;
+}
+.button__front {
+	width: 2.875vw;
+	height: 1.8vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(1.2vw);
+}
+.button__back {
+	width: 2.875vw;
+	height: 1.8vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-2.875vw) translateY(-1.8vw);
+}
+.button__right {
+	width: 3vw;
+	height: 1.8vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(2.875vw) translateX(-3vw) translateY(-1.8vw);
+}
+.button__left {
+	width: 3vw;
+	height: 1.8vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-1.8vw);
+}
+.button__top {
+	width: 2.875vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(1.8vw);
+}
+.button__bottom {
+	width: 2.875vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-2.875vw);
+}
+.button:nth-of-type(1) {
+	left: .1vw;
+}
+.button:nth-of-type(2) {
+	left: 3.1vw;
+}
+.button:nth-of-type(3) {
+	left: 6.1vw;
+}
+.button:nth-of-type(4) {
+	left: 9.1vw;
+}
+.button__front {
+	background-color: #e7e9d8;
+}
+.button__back {
+	background-color: #DEE0D3;
+}
+.button__right {
+	background-color: #9d9d9d;
+}
+.button__left {
+	background-color: #E9EBDB;
+}
+.button__top {
+	background-color: #9d9d9d;
+}
+.button__bottom {
+	background-color: #AAAAAA;
+}
+.button--cta:hover .button__front {
+	background-color: #ff6f04;
+	transition: .1s;
+	cursor: pointer;
+}
+.button--cta .button__front {
+	background-color: #ff7814;
+}
+.button--cta .button__back {
+	background-color: #ff6f04;
+}
+.button--cta .button__right {
+	background-color: #f96a00;
+}
+.button--cta .button__left {
+	background-color: #ff7814;
+}
+.button--cta .button__top {
+	background-color: #f96a00;
+}
+.button--cta .button__bottom {
+	background-color: #ff6f04;
+}
+.cover {
+	position: absolute;
+	left: 2vw;
+	width: 12vw;
+	height: 50%;
+	bottom: 0;
+	transform: translateZ(5vw) rotateX(-20deg);
+	transition: .2s;
+}
+.cover-b {
+	width: 12vw;
+	height: 0.1vw;
+	position: absolute;
+	bottom: 0;
+	left: .1vw;
+}
+.cover-b__front {
+	width: 12vw;
+	height: 6vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-5.8vw);
+}
+.cover-b__back {
+	width: 12vw;
+	height: 6vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-6vw);
+}
+.cover-b__right {
+	width: 0.2vw;
+	height: 6vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-0.2vw) translateY(-6vw);
+}
+.cover-b__left {
+	width: 0.2vw;
+	height: 6vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-6vw);
+}
+.cover-b__top {
+	width: 12vw;
+	height: 0.2vw;
+	transform-origin: top left;
+	transform: translateZ(6vw);
+}
+.cover-b__bottom {
+	width: 12vw;
+	height: 0.2vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.cover-b__front {
+	background-color: rgba(233, 235, 219, 0.1);
+	border: 0.11vw solid #DEE0D3;
+	border-bottom: 0.1vw solid #AAAAAA;
+	box-shadow: inset 1.125vw 1.125vw 0 #E9EBDB, inset -1.125vw -1.125vw 0 #E9EBDB;
+}
+.cover-b__back {
+	background-color: #DEE0D3;
+}
+.cover-b__right {
+	background-color: #AAAAAA;
+}
+.cover-b__left {
+	background-color: #DEE0D3;
+}
+.cover-b__top {
+	background-color: #DEE0D3;
+}
+.cover-b__bottom {
+	background-color: #AAAAAA;
+}
+.cassete {
+	width: 11vw;
+	height: 1vw;
+	position: absolute;
+	left: 2.5vw;
+	width: 12vw;
+	height: 50%;
+	bottom: -10%;
+	transform: translateZ(5.5vw);
+}
+.cassete__front {
+	width: 11vw;
+	height: 5vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-3vw);
+}
+.cassete__back {
+	width: 11vw;
+	height: 5vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-11vw) translateY(-5vw);
+}
+.cassete__right {
+	width: 2vw;
+	height: 5vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(11vw) translateX(-2vw) translateY(-5vw);
+}
+.cassete__left {
+	width: 2vw;
+	height: 5vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-5vw);
+}
+.cassete__top {
+	width: 11vw;
+	height: 2vw;
+	transform-origin: top left;
+	transform: translateZ(5vw);
+}
+.cassete__bottom {
+	width: 11vw;
+	height: 2vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-11vw);
+}
+.cassete__line {
+	position: absolute;
+	bottom: .3vw;
+	width: 50%;
+	height: .3vw;
+	background-color: #ff8123;
+	z-index: 10;
+	border-radius: 1vw;
+}
+.cassete__front {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #E9EBDB;
+	border: 1vw solid #383832;
+	border-left: 1.35vw solid #383832;
+	border-right: 1.35vw solid #383832;
+}
+.cassete__front::before, .cassete__front::after {
+	content: '';
+	position: relative;
+	width: 1.4vw;
+	height: 1.4vw;
+	border-radius: 50%;
+	background-color: #383832;
+}
+.cassete__back {
+	background-color: #2b2b26;
+}
+.cassete__right {
+	background-color: #1d1d1a;
+}
+.cassete__left {
+	background-color: #383832;
+}
+.cassete__top {
+	background-color: #2b2b26;
+}
+.cassete__bottom {
+	background-color: #1d1d1a;
+}
+.is-radio-active {
+	animation: radio .6s infinite alternate ease-in-out;
+}
+.is-shadow-active {
+	animation: shadow .6s infinite alternate ease-in-out;
+}
+.is-button-active {
+	transform: translateY(-0.4vw) translateZ(0.5vw) rotateX(-10deg);
+	transition: .1s;
+}
+.is-button-active .button__front {
+	background-color: #f96a00;
+}
+.is-cover-active {
+	transform: translateZ(5vw);
+	transition: .2s;
+}
+.is-circle-active {
+	animation: circle .2s infinite alternate 1s;
+}
+@keyframes radio {
+	0%, 85% {
+		transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-9vw) rotateY(0deg);
+	}
+	30%, 50%, 80% {
+		transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-8.8vw) rotateY(-2deg);
+	}
+	60%, 100% {
+		transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-8.8vw) rotateY(2deg);
+	}
+}
+@keyframes shadow {
+	0%, 85% {
+		height: 400%;
+		left: 0%;
+	}
+	30%, 50%, 80% {
+		height: 410%;
+		left: 3%;
+	}
+	60%, 100% {
+		height: 400%;
+		left: 0%;
+	}
+}
+@keyframes circle {
+	0%, 10%, 30%, 50%, 80% {
+		background-size: .9vw .9vw;
+	}
+	20%, 70%, 90%, 100% {
+		background-size: .91vw .91vw;
+	}
+}
+     
+</style>
+
+<script>
+    /*
+		Designed by: liukui
+		Original image: https://dribbble.com/shots/3029443-Radio-Gif
+*/
+
+
+const b = document.body;
+const radio = document.querySelector("#radio");
+const shadow= document.querySelector("#shadow");
+const buttonCta = document.querySelector("#button-cta");
+const cover = document.querySelector("#cover");
+const circles = document.querySelector("#circles");
+
+const a = document.querySelector("#audio");
+const son = document.querySelector("#son");
+const soff = document.querySelector("#soff");
+
+
+/*******************/
+const radioPlaying = () => {
+    radio.classList.toggle('is-radio-active')
+    shadow.classList.toggle('is-shadow-active')
+    buttonCta.classList.toggle('is-button-active')
+    cover.classList.toggle('is-cover-active')
+    // circles.classList.toggle('is-circle-active')
+
+    a.loop = true;
+
+    if (a.paused) a.play();
+    else {
+        a.pause();
+        a.currentTime = 0;
+    }
+
+    son.classList.toggle("s");
+    soff.classList.toggle("s");
+	return a.paused;
+}
+
+/*******************/
+buttonCta.addEventListener("click", radioPlaying)
+soff.addEventListener("click", radioPlaying)
+son.addEventListener("click", radioPlaying)
+
+const songs = {
+	"1": {
+		"artist": "Dominique Mara",
+		"title": "pepupape",
+		"url": "/my_blog/audio/Dominique Mara - pepupape.mp3"
+	},
+	"2": {
+		"artist": "runnit",
+		"title": "offmydick",
+		"url": "/my_blog/audio/runnit - offmydick.mp3"
+	},
+	
+};
+
+function loadSong() {
+	const songList = document.querySelector(".songs");
+	
+	for (const songId in songs) {
+		const song = songs[songId];
+		const songTitle = song.title;
+		const songArtist = song.artist;
+		
+		songList.innerHTML += `
+			<li class="song">
+				<input type="radio" name="song" id="song_${songId}" class="song__checkbox">
+				<label for="song_${songId}" class="song__title">${songTitle}</label>
+				<label for="song_${songId}" class="song__dash">-</label>
+				<label for="song_${songId}" class="song__artist_name">${songArtist}</label>
+			</li>`;
+	}
+
+	const radioButtons = document.getElementsByName("song");
+	const audioElement = document.getElementById("audio");
+	
+	radioButtons.forEach(button => {
+		button.addEventListener("change", function() {
+			console.log(this.checked);
+			if (this.checked) {
+				// Reset background color for all song elements
+				radioButtons.forEach(btn => {
+					btn.parentElement.style.backgroundColor = "rgba(0, 0, 0, 0.2)";
+				});
+				
+				// Set background color for selected element
+				const parent = this.parentElement;
+				parent.style.backgroundColor = "rgba(0, 0, 0, 0.5)";
+				
+				if (!a.paused) {
+					radio.classList.remove('is-radio-active');
+					shadow.classList.remove('is-shadow-active');
+					buttonCta.classList.remove('is-button-active');
+					cover.classList.remove('is-cover-active');
+					son.classList.remove("s");
+					soff.classList.remove("s");
+					a.pause();
+					a.currentTime = 0;
+				}
+				
+				this.parentElement.classList.add('selected-song');
+				const prevSelected = document.querySelector('.selected-song:not(:has(#' + this.id + '))');
+				if (prevSelected) {
+					prevSelected.classList.remove('selected-song');
+				}
+				const songId = this.id.split("_")[1];
+				const selectedSongUrl = songs[songId].url;
+				audioElement.src = selectedSongUrl;
+			}
+		});
+	});}loadSong();
+</script>

@@ -6,7 +6,29 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 10 Feb 2025 10:54:16 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 14:35:20 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Раздел музыки в блоге</title>
+      <link>http://localhost:1313/my_blog/posts/6/</link>
+      <pubDate>Mon, 10 Feb 2025 14:35:20 +0300</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/posts/6/</guid>
+      <description>&lt;p&gt;Сегодня я сделал раздел музыки на моем сайте. Очень хочется делиться не только техническим опытом и статьями, но и тем чем я живу, а именно музыкой. Так что теперь вы можете послушать мою музыку прямо на сайте.&lt;/p&gt;
+&lt;h2 id=&#34;чтобы-послушать-музыку-на-сайте-вам-нужно-перейти-на-страницу-музыкальныйmusic-и-нажать-на-оранжевую-кнопку-слушать&#34;&gt;Чтобы послушать музыку на сайте, вам нужно перейти на страницу &lt;a href=&#34;http://localhost:1313/my_blog/music.&#34;&gt;Музыкальный&lt;/a&gt; и нажать на &lt;em&gt;оранжевую&lt;/em&gt; кнопку &amp;ldquo;Слушать&amp;rdquo;.&lt;/h2&gt;
+&lt;p&gt;Я обязательно буду пополнять этот раздел, так что следите за обновлениями.&lt;/p&gt;
+&lt;h3 id=&#34;а-теперь-о-том-как-я-это-сделал&#34;&gt;А теперь о том, как я это сделал&lt;/h3&gt;
+&lt;p&gt;За основу был взят этот шаблон. &lt;a href=&#34;https://codepen.io/ricardoolivaalonso/pen/ExPpgqG&#34;&gt;3D Radio&lt;/a&gt;. &lt;em&gt;Спасибо автору за такой крутой шаблон!&lt;/em&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;Сегодня я сделал раздел музыки на моем сайте. Очень хочется делиться не только техническим опытом и статьями, но и тем чем я живу, а именно музыкой. Так что теперь вы можете послушать мою музыку прямо на сайте.&lt;/p&gt;
+&lt;h2 id=&#34;чтобы-послушать-музыку-на-сайте-вам-нужно-перейти-на-страницу-музыкальныйmusic-и-нажать-на-оранжевую-кнопку-слушать&#34;&gt;Чтобы послушать музыку на сайте, вам нужно перейти на страницу &lt;a href=&#34;http://localhost:1313/my_blog/music.&#34;&gt;Музыкальный&lt;/a&gt; и нажать на &lt;em&gt;оранжевую&lt;/em&gt; кнопку &amp;ldquo;Слушать&amp;rdquo;.&lt;/h2&gt;
+&lt;p&gt;Я обязательно буду пополнять этот раздел, так что следите за обновлениями.&lt;/p&gt;
+&lt;h3 id=&#34;а-теперь-о-том-как-я-это-сделал&#34;&gt;А теперь о том, как я это сделал&lt;/h3&gt;
+&lt;p&gt;За основу был взят этот шаблон. &lt;a href=&#34;https://codepen.io/ricardoolivaalonso/pen/ExPpgqG&#34;&gt;3D Radio&lt;/a&gt;. &lt;em&gt;Спасибо автору за такой крутой шаблон!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Затем я маленько заменил тени, чтобы они соотвествовали цветовой теме сайта. А также добавил в шаблон возможность прослушивания разнообразной музыыки, проще говоря список песен. Это заняло не так много времени благодаря генерации нейросетями.&lt;/p&gt;
+&lt;p&gt;Так что бегом проверять, что там у меня получилось ;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Позже буду заливать еще музыку!&lt;/strong&gt;&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Я опять остался без аккаунта в телеграм.</title>
       <link>http://localhost:1313/my_blog/posts/5/</link>
@@ -218,6 +240,2147 @@
       <guid>http://localhost:1313/my_blog/about/</guid>
       <description>&lt;p&gt;Этот сайт создан с помощью &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; и &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. Я создал этот блог для того, чтобы поделиться с вами своими мыслями и опытом. Вы можете найти меня в телеграм &lt;del&gt;@t3m14_174&lt;/del&gt;.&lt;/p&gt;</description>
       <content>&lt;p&gt;Этот сайт создан с помощью &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; и &lt;a href=&#34;https://pages.github.com/&#34;&gt;Github Pages&lt;/a&gt;. Я создал этот блог для того, чтобы поделиться с вами своими мыслями и опытом. Вы можете найти меня в телеграм &lt;del&gt;@t3m14_174&lt;/del&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Моя музыка</title>
+      <link>http://localhost:1313/my_blog/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/music/</guid>
+      <description>&lt;div positon=&#34;center&#34; style=&#34;width: 300px;height: 400px;display: flex;flex-direction: column;align-items: center;justify-content: center;margin: 0 auto;&#34;&gt;
+    &lt;audio id=&#34;audio&#34;&gt;
+        &lt;source src=&#34;http://localhost:1313/my_blog/audio/Dominique Mara - pepupape.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    &lt;/audio&gt;
+    &lt;div class=&#34;svgs&#34;&gt;
+        &lt;svg class=&#34;svg-icon&#34; viewBox=&#34;0 0 20 20&#34; class=&#34;s&#34; id=&#34;son&#34;&gt;
+            &lt;path d=&#34;M17.969,10c0,1.707-0.5,3.366-1.446,4.802c-0.076,0.115-0.203,0.179-0.333,0.179c-0.075,0-0.151-0.022-0.219-0.065c-0.184-0.122-0.233-0.369-0.113-0.553c0.86-1.302,1.314-2.812,1.314-4.362s-0.454-3.058-1.314-4.363c-0.12-0.183-0.07-0.43,0.113-0.552c0.186-0.12,0.432-0.07,0.552,0.114C17.469,6.633,17.969,8.293,17.969,10 M15.938,10c0,1.165-0.305,2.319-0.88,3.339c-0.074,0.129-0.21,0.201-0.347,0.201c-0.068,0-0.134-0.016-0.197-0.052c-0.191-0.107-0.259-0.351-0.149-0.542c0.508-0.9,0.776-1.918,0.776-2.946c0-1.028-0.269-2.046-0.776-2.946c-0.109-0.191-0.042-0.434,0.149-0.542c0.193-0.109,0.436-0.042,0.544,0.149C15.634,7.681,15.938,8.834,15.938,10 M13.91,10c0,0.629-0.119,1.237-0.354,1.811c-0.063,0.153-0.211,0.247-0.368,0.247c-0.05,0-0.102-0.01-0.151-0.029c-0.203-0.084-0.301-0.317-0.217-0.521c0.194-0.476,0.294-0.984,0.294-1.508s-0.1-1.032-0.294-1.508c-0.084-0.203,0.014-0.437,0.217-0.52c0.203-0.084,0.437,0.014,0.52,0.217C13.791,8.763,13.91,9.373,13.91,10 M11.594,3.227v13.546c0,0.161-0.098,0.307-0.245,0.368c-0.05,0.021-0.102,0.03-0.153,0.03c-0.104,0-0.205-0.04-0.281-0.117l-3.669-3.668H2.43c-0.219,0-0.398-0.18-0.398-0.398V7.012c0-0.219,0.179-0.398,0.398-0.398h4.815l3.669-3.668c0.114-0.115,0.285-0.149,0.435-0.087C11.496,2.92,11.594,3.065,11.594,3.227 M7.012,7.41H2.828v5.18h4.184V7.41z M10.797,4.189L7.809,7.177v5.646l2.988,2.988V4.189z&#34;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+        &lt;svg class=&#34;svg-icon&#34; viewBox=&#34;0 0 20 20&#34; id=&#34;soff&#34;&gt;
+            &lt;path d=&#34;M18.084,11.639c0.168,0.169,0.168,0.442,0,0.611c-0.084,0.084-0.195,0.127-0.306,0.127c-0.111,0-0.221-0.043-0.306-0.127l-1.639-1.639l-1.639,1.639c-0.084,0.084-0.195,0.127-0.306,0.127c-0.111,0-0.222-0.043-0.307-0.127c-0.168-0.169-0.168-0.442,0-0.611L15.223,10l-1.64-1.639c-0.168-0.168-0.168-0.442,0-0.61c0.17-0.169,0.442-0.169,0.612,0l1.639,1.639l1.639-1.639c0.169-0.169,0.442-0.169,0.611,0c0.168,0.168,0.168,0.442,0,0.61L16.445,10L18.084,11.639z M12.161,2.654v14.691c0,0.175-0.105,0.333-0.267,0.4c-0.054,0.021-0.109,0.032-0.166,0.032c-0.111,0-0.223-0.043-0.305-0.127l-3.979-3.979H2.222c-0.237,0-0.432-0.194-0.432-0.432V6.759c0-0.237,0.195-0.432,0.432-0.432h5.222l3.979-3.978c0.123-0.125,0.309-0.163,0.471-0.095C12.056,2.322,12.161,2.479,12.161,2.654 M7.192,7.192H2.654v5.617h4.538V7.192z M11.296,3.698l-3.24,3.241v6.123l3.24,3.24V3.698z&#34;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;shadows&#34;&gt;
+        &lt;div class=&#34;shadow-1&#34; id=&#34;shadow&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;shadow-2&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;radio&#34; id=&#34;radio&#34;&gt;
+        &lt;div class=&#34;bf&#34;&gt;
+            &lt;div class=&#34;bf__front face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__back face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ffa&#34;&gt;
+            &lt;div class=&#34;ffa__front face&#34;&gt;
+                &lt;div class=&#34;ffa__front-circles&#34; id=&#34;circles&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;ffa__right face&#34;&gt;
+                &lt;div class=&#34;range&#34;&gt;
+                    &lt;div class=&#34;range__front face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__back face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__right face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__left face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__top face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__bottom face&#34;&gt;&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;ffa__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffa__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffa__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ffb&#34;&gt;
+            &lt;div class=&#34;ffb__front face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffb__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffb__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffb__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffb__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ffc&#34;&gt;
+            &lt;div class=&#34;ffc__front face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffc__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffc__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffc__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffc__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ffd&#34;&gt;
+            &lt;div class=&#34;ffd__front face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffd__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffd__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffd__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffd__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;buttons&#34;&gt;
+            &lt;div class=&#34;button&#34;&gt;
+                &lt;div class=&#34;button__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__back face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;button&#34;&gt;
+                &lt;div class=&#34;button__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__back face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;button&#34;&gt;
+                &lt;div class=&#34;button__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__back face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;button button--cta&#34; id=&#34;button-cta&#34;&gt;
+                &lt;div class=&#34;button__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__back face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;cover&#34; id=&#34;cover&#34;&gt;
+            &lt;div class=&#34;cover-b&#34;&gt;
+                &lt;div class=&#34;cover-b__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;cover-b__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;cover-b__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;cover-b__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;cover-b__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;cassete&#34;&gt;
+            &lt;div class=&#34;cassete__front face&#34;&gt;
+                &lt;div class=&#34;cassete__line&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;cassete__back face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;cassete__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;cassete__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;cassete__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;cassete__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    
+    &lt;script src=&#34;main.js&#34;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;songs_list&#34;&gt;
+    &lt;ul class=&#34;songs&#34;&gt;
+        
+        &lt;/input&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;style&gt;
+     *, *::after, *::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	transform-style: preserve-3d;
+	-webkit-tap-highlight-color: transparent;
+}
+.song {
+	margin: 20px;
+    display: flex;
+    flex-direction: row;  
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 3px solid #78e2a0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    padding: 10px;  
+}
+
+
+.song:hover {
+    transform: scale(1.1);
+}
+
+.song__checkbox {
+    display: none; 
+}
+
+.song__title,
+.song__artist_name,
+.song__dash {
+    flex: 1;  
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+    font-weight: 700;
+    color: #78e2a0;
+    text-align: center;
+}
+
+ 
+.song input[type=checkbox]:checked + .song {
+    background-color: green !important;
+}
+
+ 
+@media (max-width: 600px) {
+    .song {
+        flex-direction: column;  
+        align-items: center;  
+    }
+
+    .song__title,
+    .song__artist_name,
+    .song__dash {
+        justify-content: flex-start;  
+        width: auto;  
+        margin-bottom: 5px;  
+    }
+}
+
+.face {
+	position: absolute;
+}
+.svgs {
+	position: absolute;
+	z-index: 200000;
+	top: 50px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.svg-icon {
+	width: 30px;
+	height: 30px;
+}
+.svg-icon:hover {
+	transform: scale(1.1);
+}
+.svg-icon path, .svg-icon polygon, .svg-icon rect {
+	fill: white;
+}
+.svg-icon circle {
+	stroke: white;
+	stroke-width: 1;
+}
+.s {
+	display: none;
+}
+.radio, .shadows {
+	position: absolute;
+	width: 26vw;
+	height: 6vw;
+	transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-9vw);
+}
+.shadow-1 {
+	position: absolute;
+	width: 100%;
+	height: 400%;
+	bottom: 0;
+	left: 0;
+	transform-origin: bottom left;
+	transform: skewX(-10deg) translateZ(-1px);
+	background-color: #1b1b1f;
+}
+.shadow-2 {
+	position: absolute;
+	width: 102%;
+	height: 101%;
+	bottom: -3%;
+	left: -1%;
+	background-image: linear-gradient(to bottom, #010101, #1b1b1f);
+	transform: translateZ(-1px);
+}
+.bf {
+	width: 26vw;
+	height: 1.5vw;
+	position: absolute;
+}
+.bf__front {
+	width: 26vw;
+	height: 14vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-11vw);
+}
+.bf__back {
+	width: 26vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-26vw) translateY(-14vw);
+}
+.bf__right {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(26vw) translateX(-3vw) translateY(-14vw);
+}
+.bf__left {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-14vw);
+}
+.bf__top {
+	width: 26vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(14vw);
+}
+.bf__bottom {
+	width: 26vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-26vw);
+}
+.bf__front {
+	background-color: #E9EBDB;
+}
+.bf__back {
+	background-color: #AAAAAA;
+}
+.bf__right {
+	background-color: #AAAAAA;
+	border-left: 0.125vw solid #919191;
+}
+.bf__left {
+	background-color: #E9EBDB;
+	border-right: 0.125vw solid #d5d9ba;
+}
+.bf__top {
+	background-color: #DEE0D3;
+	border-bottom: 0.125vw solid #c8cbb5;
+}
+.bf__bottom {
+	background-color: #AAAAAA;
+}
+.ffa {
+	width: 12vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	right: 0;
+}
+.ffa__front {
+	width: 12vw;
+	height: 14vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-11vw);
+}
+.ffa__back {
+	width: 12vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-14vw);
+}
+.ffa__right {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-3vw) translateY(-14vw);
+}
+.ffa__left {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-14vw);
+}
+.ffa__top {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(14vw);
+}
+.ffa__bottom {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.ffa__front {
+	background-color: #E9EBDB;
+}
+.ffa__front-circles {
+	width: 100%;
+	height: 80%;
+	padding: 3vw 2vw 1vw;
+	background-image: linear-gradient(-90deg, transparent 0%, transparent 50%, #E9EBDB 50%, #E9EBDB 100%), linear-gradient(0deg, #383832 0%, #383832 50%, #E9EBDB 50%, #E9EBDB 100%);
+	background-size: .9vw .9vw;
+	background-clip: content-box;
+}
+.ffa__back {
+	background-color: #DEE0D3;
+}
+.ffa__right {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	padding-top: 3vw;
+	background-color: #AAAAAA;
+}
+.ffa__left {
+	background-color: #DEE0D3;
+}
+.ffa__top {
+	background-color: #DEE0D3;
+}
+.ffa__bottom {
+	background-color: #AAAAAA;
+}
+.range {
+	width: 0.4vw;
+	height: 0.6vw;
+	position: absolute;
+}
+.range__front {
+	width: 0.4vw;
+	height: 0.3vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(0.9vw);
+}
+.range__back {
+	width: 0.4vw;
+	height: 0.3vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-0.4vw) translateY(-0.3vw);
+}
+.range__right {
+	width: 1.2vw;
+	height: 0.3vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(0.4vw) translateX(-1.2vw) translateY(-0.3vw);
+}
+.range__left {
+	width: 1.2vw;
+	height: 0.3vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-0.3vw);
+}
+.range__top {
+	width: 0.4vw;
+	height: 1.2vw;
+	transform-origin: top left;
+	transform: translateZ(0.3vw);
+}
+.range__bottom {
+	width: 0.4vw;
+	height: 1.2vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-0.4vw);
+}
+.range__front {
+	background-color: #1d1d1a;
+}
+.range__back {
+	background-color: #2b2b26;
+}
+.range__right {
+	background-color: #2b2b26;
+}
+.range__left {
+	background-color: #383832;
+}
+.range__top {
+	background-color: #1d1d1a;
+}
+.range__bottom {
+	background-color: #1d1d1a;
+}
+.range__bottom::before {
+	content: &#39;&#39;;
+	position: absolute;
+	width: 100%;
+	height: 5vw;
+	transform: translateZ(-1px);
+	background-color: #666666;
+}
+.ffb {
+	width: 2vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	left: 0;
+}
+.ffb__front {
+	width: 2vw;
+	height: 14vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-11vw);
+}
+.ffb__back {
+	width: 2vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-2vw) translateY(-14vw);
+}
+.ffb__right {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(2vw) translateX(-3vw) translateY(-14vw);
+}
+.ffb__left {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-14vw);
+}
+.ffb__top {
+	width: 2vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(14vw);
+}
+.ffb__bottom {
+	width: 2vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-2vw);
+}
+.ffb__front {
+	background-color: #E9EBDB;
+}
+.ffb__back {
+	background-color: #DEE0D3;
+}
+.ffb__right {
+	background-color: #AAAAAA;
+}
+.ffb__left {
+	background-color: #E9EBDB;
+}
+.ffb__top {
+	background-color: #DEE0D3;
+}
+.ffb__bottom {
+	background-color: #AAAAAA;
+}
+.ffc {
+	width: 12vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	left: 2vw;
+	transform: translateZ(11vw);
+}
+.ffc__front {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(0vw);
+}
+.ffc__back {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-3vw);
+}
+.ffc__right {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-3vw) translateY(-3vw);
+}
+.ffc__left {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-3vw);
+}
+.ffc__top {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(3vw);
+}
+.ffc__bottom {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.ffc__front {
+	background-color: #E9EBDB;
+}
+.ffc__back {
+	background-color: #DEE0D3;
+}
+.ffc__right {
+	background-color: #AAAAAA;
+}
+.ffc__left {
+	background-color: #E9EBDB;
+}
+.ffc__top {
+	background-color: #DEE0D3;
+}
+.ffc__bottom {
+	background-color: #AAAAAA;
+}
+.ffd {
+	width: 12vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	left: 2vw;
+	transform: translateZ(2vw);
+}
+.ffd__front {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(0vw);
+}
+.ffd__back {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-3vw);
+}
+.ffd__right {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-3vw) translateY(-3vw);
+}
+.ffd__left {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-3vw);
+}
+.ffd__top {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(3vw);
+}
+.ffd__bottom {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.ffd__front {
+	background-color: #E9EBDB;
+}
+.ffd__back {
+	background-color: #DEE0D3;
+}
+.ffd__right {
+	background-color: #AAAAAA;
+}
+.ffd__left {
+	background-color: #E9EBDB;
+}
+.ffd__top {
+	background-color: #AAAAAA;
+}
+.ffd__bottom {
+	background-color: #AAAAAA;
+}
+.buttons {
+	position: absolute;
+	left: 2vw;
+	width: 12vw;
+	height: 50%;
+	bottom: 0;
+	transform: translateZ(0.1vw);
+}
+.button {
+	width: 2.875vw;
+	height: 1.5vw;
+	position: absolute;
+}
+.button__front {
+	width: 2.875vw;
+	height: 1.8vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(1.2vw);
+}
+.button__back {
+	width: 2.875vw;
+	height: 1.8vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-2.875vw) translateY(-1.8vw);
+}
+.button__right {
+	width: 3vw;
+	height: 1.8vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(2.875vw) translateX(-3vw) translateY(-1.8vw);
+}
+.button__left {
+	width: 3vw;
+	height: 1.8vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-1.8vw);
+}
+.button__top {
+	width: 2.875vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(1.8vw);
+}
+.button__bottom {
+	width: 2.875vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-2.875vw);
+}
+.button:nth-of-type(1) {
+	left: .1vw;
+}
+.button:nth-of-type(2) {
+	left: 3.1vw;
+}
+.button:nth-of-type(3) {
+	left: 6.1vw;
+}
+.button:nth-of-type(4) {
+	left: 9.1vw;
+}
+.button__front {
+	background-color: #e7e9d8;
+}
+.button__back {
+	background-color: #DEE0D3;
+}
+.button__right {
+	background-color: #9d9d9d;
+}
+.button__left {
+	background-color: #E9EBDB;
+}
+.button__top {
+	background-color: #9d9d9d;
+}
+.button__bottom {
+	background-color: #AAAAAA;
+}
+.button--cta:hover .button__front {
+	background-color: #ff6f04;
+	transition: .1s;
+	cursor: pointer;
+}
+.button--cta .button__front {
+	background-color: #ff7814;
+}
+.button--cta .button__back {
+	background-color: #ff6f04;
+}
+.button--cta .button__right {
+	background-color: #f96a00;
+}
+.button--cta .button__left {
+	background-color: #ff7814;
+}
+.button--cta .button__top {
+	background-color: #f96a00;
+}
+.button--cta .button__bottom {
+	background-color: #ff6f04;
+}
+.cover {
+	position: absolute;
+	left: 2vw;
+	width: 12vw;
+	height: 50%;
+	bottom: 0;
+	transform: translateZ(5vw) rotateX(-20deg);
+	transition: .2s;
+}
+.cover-b {
+	width: 12vw;
+	height: 0.1vw;
+	position: absolute;
+	bottom: 0;
+	left: .1vw;
+}
+.cover-b__front {
+	width: 12vw;
+	height: 6vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-5.8vw);
+}
+.cover-b__back {
+	width: 12vw;
+	height: 6vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-6vw);
+}
+.cover-b__right {
+	width: 0.2vw;
+	height: 6vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-0.2vw) translateY(-6vw);
+}
+.cover-b__left {
+	width: 0.2vw;
+	height: 6vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-6vw);
+}
+.cover-b__top {
+	width: 12vw;
+	height: 0.2vw;
+	transform-origin: top left;
+	transform: translateZ(6vw);
+}
+.cover-b__bottom {
+	width: 12vw;
+	height: 0.2vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.cover-b__front {
+	background-color: rgba(233, 235, 219, 0.1);
+	border: 0.11vw solid #DEE0D3;
+	border-bottom: 0.1vw solid #AAAAAA;
+	box-shadow: inset 1.125vw 1.125vw 0 #E9EBDB, inset -1.125vw -1.125vw 0 #E9EBDB;
+}
+.cover-b__back {
+	background-color: #DEE0D3;
+}
+.cover-b__right {
+	background-color: #AAAAAA;
+}
+.cover-b__left {
+	background-color: #DEE0D3;
+}
+.cover-b__top {
+	background-color: #DEE0D3;
+}
+.cover-b__bottom {
+	background-color: #AAAAAA;
+}
+.cassete {
+	width: 11vw;
+	height: 1vw;
+	position: absolute;
+	left: 2.5vw;
+	width: 12vw;
+	height: 50%;
+	bottom: -10%;
+	transform: translateZ(5.5vw);
+}
+.cassete__front {
+	width: 11vw;
+	height: 5vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-3vw);
+}
+.cassete__back {
+	width: 11vw;
+	height: 5vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-11vw) translateY(-5vw);
+}
+.cassete__right {
+	width: 2vw;
+	height: 5vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(11vw) translateX(-2vw) translateY(-5vw);
+}
+.cassete__left {
+	width: 2vw;
+	height: 5vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-5vw);
+}
+.cassete__top {
+	width: 11vw;
+	height: 2vw;
+	transform-origin: top left;
+	transform: translateZ(5vw);
+}
+.cassete__bottom {
+	width: 11vw;
+	height: 2vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-11vw);
+}
+.cassete__line {
+	position: absolute;
+	bottom: .3vw;
+	width: 50%;
+	height: .3vw;
+	background-color: #ff8123;
+	z-index: 10;
+	border-radius: 1vw;
+}
+.cassete__front {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #E9EBDB;
+	border: 1vw solid #383832;
+	border-left: 1.35vw solid #383832;
+	border-right: 1.35vw solid #383832;
+}
+.cassete__front::before, .cassete__front::after {
+	content: &#39;&#39;;
+	position: relative;
+	width: 1.4vw;
+	height: 1.4vw;
+	border-radius: 50%;
+	background-color: #383832;
+}
+.cassete__back {
+	background-color: #2b2b26;
+}
+.cassete__right {
+	background-color: #1d1d1a;
+}
+.cassete__left {
+	background-color: #383832;
+}
+.cassete__top {
+	background-color: #2b2b26;
+}
+.cassete__bottom {
+	background-color: #1d1d1a;
+}
+.is-radio-active {
+	animation: radio .6s infinite alternate ease-in-out;
+}
+.is-shadow-active {
+	animation: shadow .6s infinite alternate ease-in-out;
+}
+.is-button-active {
+	transform: translateY(-0.4vw) translateZ(0.5vw) rotateX(-10deg);
+	transition: .1s;
+}
+.is-button-active .button__front {
+	background-color: #f96a00;
+}
+.is-cover-active {
+	transform: translateZ(5vw);
+	transition: .2s;
+}
+.is-circle-active {
+	animation: circle .2s infinite alternate 1s;
+}
+@keyframes radio {
+	0%, 85% {
+		transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-9vw) rotateY(0deg);
+	}
+	30%, 50%, 80% {
+		transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-8.8vw) rotateY(-2deg);
+	}
+	60%, 100% {
+		transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-8.8vw) rotateY(2deg);
+	}
+}
+@keyframes shadow {
+	0%, 85% {
+		height: 400%;
+		left: 0%;
+	}
+	30%, 50%, 80% {
+		height: 410%;
+		left: 3%;
+	}
+	60%, 100% {
+		height: 400%;
+		left: 0%;
+	}
+}
+@keyframes circle {
+	0%, 10%, 30%, 50%, 80% {
+		background-size: .9vw .9vw;
+	}
+	20%, 70%, 90%, 100% {
+		background-size: .91vw .91vw;
+	}
+}
+     
+&lt;/style&gt;
+
+&lt;script&gt;
+    
+
+
+
+const b = document.body;
+const radio = document.querySelector(&#34;#radio&#34;);
+const shadow= document.querySelector(&#34;#shadow&#34;);
+const buttonCta = document.querySelector(&#34;#button-cta&#34;);
+const cover = document.querySelector(&#34;#cover&#34;);
+const circles = document.querySelector(&#34;#circles&#34;);
+
+const a = document.querySelector(&#34;#audio&#34;);
+const son = document.querySelector(&#34;#son&#34;);
+const soff = document.querySelector(&#34;#soff&#34;);
+
+
+ 
+const radioPlaying = () =&gt; {
+    radio.classList.toggle(&#39;is-radio-active&#39;)
+    shadow.classList.toggle(&#39;is-shadow-active&#39;)
+    buttonCta.classList.toggle(&#39;is-button-active&#39;)
+    cover.classList.toggle(&#39;is-cover-active&#39;)
+    
+
+    a.loop = true;
+
+    if (a.paused) a.play();
+    else {
+        a.pause();
+        a.currentTime = 0;
+    }
+
+    son.classList.toggle(&#34;s&#34;);
+    soff.classList.toggle(&#34;s&#34;);
+	return a.paused;
+}
+
+ 
+buttonCta.addEventListener(&#34;click&#34;, radioPlaying)
+soff.addEventListener(&#34;click&#34;, radioPlaying)
+son.addEventListener(&#34;click&#34;, radioPlaying)
+
+const songs = {
+	&#34;1&#34;: {
+		&#34;artist&#34;: &#34;Dominique Mara&#34;,
+		&#34;title&#34;: &#34;pepupape&#34;,
+		&#34;url&#34;: &#34;/my_blog/audio/Dominique Mara - pepupape.mp3&#34;
+	},
+	&#34;2&#34;: {
+		&#34;artist&#34;: &#34;runnit&#34;,
+		&#34;title&#34;: &#34;offmydick&#34;,
+		&#34;url&#34;: &#34;/my_blog/audio/runnit - offmydick.mp3&#34;
+	},
+	
+};
+
+function loadSong() {
+	const songList = document.querySelector(&#34;.songs&#34;);
+	
+	for (const songId in songs) {
+		const song = songs[songId];
+		const songTitle = song.title;
+		const songArtist = song.artist;
+		
+		songList.innerHTML += `
+			&lt;li class=&#34;song&#34;&gt;
+				&lt;input type=&#34;radio&#34; name=&#34;song&#34; id=&#34;song_${songId}&#34; class=&#34;song__checkbox&#34;&gt;
+				&lt;label for=&#34;song_${songId}&#34; class=&#34;song__title&#34;&gt;${songTitle}&lt;/label&gt;
+				&lt;label for=&#34;song_${songId}&#34; class=&#34;song__dash&#34;&gt;-&lt;/label&gt;
+				&lt;label for=&#34;song_${songId}&#34; class=&#34;song__artist_name&#34;&gt;${songArtist}&lt;/label&gt;
+			&lt;/li&gt;`;
+	}
+
+	const radioButtons = document.getElementsByName(&#34;song&#34;);
+	const audioElement = document.getElementById(&#34;audio&#34;);
+	
+	radioButtons.forEach(button =&gt; {
+		button.addEventListener(&#34;change&#34;, function() {
+			console.log(this.checked);
+			if (this.checked) {
+				
+				radioButtons.forEach(btn =&gt; {
+					btn.parentElement.style.backgroundColor = &#34;rgba(0, 0, 0, 0.2)&#34;;
+				});
+				
+				
+				const parent = this.parentElement;
+				parent.style.backgroundColor = &#34;rgba(0, 0, 0, 0.5)&#34;;
+				
+				if (!a.paused) {
+					radio.classList.remove(&#39;is-radio-active&#39;);
+					shadow.classList.remove(&#39;is-shadow-active&#39;);
+					buttonCta.classList.remove(&#39;is-button-active&#39;);
+					cover.classList.remove(&#39;is-cover-active&#39;);
+					son.classList.remove(&#34;s&#34;);
+					soff.classList.remove(&#34;s&#34;);
+					a.pause();
+					a.currentTime = 0;
+				}
+				
+				this.parentElement.classList.add(&#39;selected-song&#39;);
+				const prevSelected = document.querySelector(&#39;.selected-song:not(:has(#&#39; + this.id + &#39;))&#39;);
+				if (prevSelected) {
+					prevSelected.classList.remove(&#39;selected-song&#39;);
+				}
+				const songId = this.id.split(&#34;_&#34;)[1];
+				const selectedSongUrl = songs[songId].url;
+				audioElement.src = selectedSongUrl;
+			}
+		});
+	});}loadSong();
+&lt;/script&gt;</description>
+      <content>
+
+
+
+&lt;div positon=&#34;center&#34; style=&#34;width: 300px;height: 400px;display: flex;flex-direction: column;align-items: center;justify-content: center;margin: 0 auto;&#34;&gt;
+    &lt;audio id=&#34;audio&#34;&gt;
+        &lt;source src=&#34;http://localhost:1313/my_blog/audio/Dominique Mara - pepupape.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    &lt;/audio&gt;
+    &lt;div class=&#34;svgs&#34;&gt;
+        &lt;svg class=&#34;svg-icon&#34; viewBox=&#34;0 0 20 20&#34; class=&#34;s&#34; id=&#34;son&#34;&gt;
+            &lt;path d=&#34;M17.969,10c0,1.707-0.5,3.366-1.446,4.802c-0.076,0.115-0.203,0.179-0.333,0.179c-0.075,0-0.151-0.022-0.219-0.065c-0.184-0.122-0.233-0.369-0.113-0.553c0.86-1.302,1.314-2.812,1.314-4.362s-0.454-3.058-1.314-4.363c-0.12-0.183-0.07-0.43,0.113-0.552c0.186-0.12,0.432-0.07,0.552,0.114C17.469,6.633,17.969,8.293,17.969,10 M15.938,10c0,1.165-0.305,2.319-0.88,3.339c-0.074,0.129-0.21,0.201-0.347,0.201c-0.068,0-0.134-0.016-0.197-0.052c-0.191-0.107-0.259-0.351-0.149-0.542c0.508-0.9,0.776-1.918,0.776-2.946c0-1.028-0.269-2.046-0.776-2.946c-0.109-0.191-0.042-0.434,0.149-0.542c0.193-0.109,0.436-0.042,0.544,0.149C15.634,7.681,15.938,8.834,15.938,10 M13.91,10c0,0.629-0.119,1.237-0.354,1.811c-0.063,0.153-0.211,0.247-0.368,0.247c-0.05,0-0.102-0.01-0.151-0.029c-0.203-0.084-0.301-0.317-0.217-0.521c0.194-0.476,0.294-0.984,0.294-1.508s-0.1-1.032-0.294-1.508c-0.084-0.203,0.014-0.437,0.217-0.52c0.203-0.084,0.437,0.014,0.52,0.217C13.791,8.763,13.91,9.373,13.91,10 M11.594,3.227v13.546c0,0.161-0.098,0.307-0.245,0.368c-0.05,0.021-0.102,0.03-0.153,0.03c-0.104,0-0.205-0.04-0.281-0.117l-3.669-3.668H2.43c-0.219,0-0.398-0.18-0.398-0.398V7.012c0-0.219,0.179-0.398,0.398-0.398h4.815l3.669-3.668c0.114-0.115,0.285-0.149,0.435-0.087C11.496,2.92,11.594,3.065,11.594,3.227 M7.012,7.41H2.828v5.18h4.184V7.41z M10.797,4.189L7.809,7.177v5.646l2.988,2.988V4.189z&#34;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+        &lt;svg class=&#34;svg-icon&#34; viewBox=&#34;0 0 20 20&#34; id=&#34;soff&#34;&gt;
+            &lt;path d=&#34;M18.084,11.639c0.168,0.169,0.168,0.442,0,0.611c-0.084,0.084-0.195,0.127-0.306,0.127c-0.111,0-0.221-0.043-0.306-0.127l-1.639-1.639l-1.639,1.639c-0.084,0.084-0.195,0.127-0.306,0.127c-0.111,0-0.222-0.043-0.307-0.127c-0.168-0.169-0.168-0.442,0-0.611L15.223,10l-1.64-1.639c-0.168-0.168-0.168-0.442,0-0.61c0.17-0.169,0.442-0.169,0.612,0l1.639,1.639l1.639-1.639c0.169-0.169,0.442-0.169,0.611,0c0.168,0.168,0.168,0.442,0,0.61L16.445,10L18.084,11.639z M12.161,2.654v14.691c0,0.175-0.105,0.333-0.267,0.4c-0.054,0.021-0.109,0.032-0.166,0.032c-0.111,0-0.223-0.043-0.305-0.127l-3.979-3.979H2.222c-0.237,0-0.432-0.194-0.432-0.432V6.759c0-0.237,0.195-0.432,0.432-0.432h5.222l3.979-3.978c0.123-0.125,0.309-0.163,0.471-0.095C12.056,2.322,12.161,2.479,12.161,2.654 M7.192,7.192H2.654v5.617h4.538V7.192z M11.296,3.698l-3.24,3.241v6.123l3.24,3.24V3.698z&#34;&gt;&lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;shadows&#34;&gt;
+        &lt;div class=&#34;shadow-1&#34; id=&#34;shadow&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;shadow-2&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;radio&#34; id=&#34;radio&#34;&gt;
+        &lt;div class=&#34;bf&#34;&gt;
+            &lt;div class=&#34;bf__front face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__back face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;bf__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ffa&#34;&gt;
+            &lt;div class=&#34;ffa__front face&#34;&gt;
+                &lt;div class=&#34;ffa__front-circles&#34; id=&#34;circles&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;ffa__right face&#34;&gt;
+                &lt;div class=&#34;range&#34;&gt;
+                    &lt;div class=&#34;range__front face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__back face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__right face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__left face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__top face&#34;&gt;&lt;/div&gt;
+                    &lt;div class=&#34;range__bottom face&#34;&gt;&lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;ffa__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffa__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffa__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ffb&#34;&gt;
+            &lt;div class=&#34;ffb__front face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffb__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffb__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffb__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffb__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ffc&#34;&gt;
+            &lt;div class=&#34;ffc__front face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffc__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffc__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffc__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffc__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;ffd&#34;&gt;
+            &lt;div class=&#34;ffd__front face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffd__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffd__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffd__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;ffd__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;buttons&#34;&gt;
+            &lt;div class=&#34;button&#34;&gt;
+                &lt;div class=&#34;button__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__back face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;button&#34;&gt;
+                &lt;div class=&#34;button__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__back face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;button&#34;&gt;
+                &lt;div class=&#34;button__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__back face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;button button--cta&#34; id=&#34;button-cta&#34;&gt;
+                &lt;div class=&#34;button__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__back face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;button__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;cover&#34; id=&#34;cover&#34;&gt;
+            &lt;div class=&#34;cover-b&#34;&gt;
+                &lt;div class=&#34;cover-b__front face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;cover-b__right face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;cover-b__left face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;cover-b__top face&#34;&gt;&lt;/div&gt;
+                &lt;div class=&#34;cover-b__bottom face&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;cassete&#34;&gt;
+            &lt;div class=&#34;cassete__front face&#34;&gt;
+                &lt;div class=&#34;cassete__line&#34;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;div class=&#34;cassete__back face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;cassete__right face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;cassete__left face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;cassete__top face&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;cassete__bottom face&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    
+    &lt;script src=&#34;main.js&#34;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;songs_list&#34;&gt;
+    &lt;ul class=&#34;songs&#34;&gt;
+        
+        &lt;/input&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;style&gt;
+     *, *::after, *::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	transform-style: preserve-3d;
+	-webkit-tap-highlight-color: transparent;
+}
+.song {
+	margin: 20px;
+    display: flex;
+    flex-direction: row;  
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 3px solid #78e2a0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    padding: 10px;  
+}
+
+
+.song:hover {
+    transform: scale(1.1);
+}
+
+.song__checkbox {
+    display: none; 
+}
+
+.song__title,
+.song__artist_name,
+.song__dash {
+    flex: 1;  
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    font-size: 1.5rem;
+    letter-spacing: 0.5rem;
+    font-weight: 700;
+    color: #78e2a0;
+    text-align: center;
+}
+
+ 
+.song input[type=checkbox]:checked + .song {
+    background-color: green !important;
+}
+
+ 
+@media (max-width: 600px) {
+    .song {
+        flex-direction: column;  
+        align-items: center;  
+    }
+
+    .song__title,
+    .song__artist_name,
+    .song__dash {
+        justify-content: flex-start;  
+        width: auto;  
+        margin-bottom: 5px;  
+    }
+}
+
+.face {
+	position: absolute;
+}
+.svgs {
+	position: absolute;
+	z-index: 200000;
+	top: 50px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.svg-icon {
+	width: 30px;
+	height: 30px;
+}
+.svg-icon:hover {
+	transform: scale(1.1);
+}
+.svg-icon path, .svg-icon polygon, .svg-icon rect {
+	fill: white;
+}
+.svg-icon circle {
+	stroke: white;
+	stroke-width: 1;
+}
+.s {
+	display: none;
+}
+.radio, .shadows {
+	position: absolute;
+	width: 26vw;
+	height: 6vw;
+	transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-9vw);
+}
+.shadow-1 {
+	position: absolute;
+	width: 100%;
+	height: 400%;
+	bottom: 0;
+	left: 0;
+	transform-origin: bottom left;
+	transform: skewX(-10deg) translateZ(-1px);
+	background-color: #1b1b1f;
+}
+.shadow-2 {
+	position: absolute;
+	width: 102%;
+	height: 101%;
+	bottom: -3%;
+	left: -1%;
+	background-image: linear-gradient(to bottom, #010101, #1b1b1f);
+	transform: translateZ(-1px);
+}
+.bf {
+	width: 26vw;
+	height: 1.5vw;
+	position: absolute;
+}
+.bf__front {
+	width: 26vw;
+	height: 14vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-11vw);
+}
+.bf__back {
+	width: 26vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-26vw) translateY(-14vw);
+}
+.bf__right {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(26vw) translateX(-3vw) translateY(-14vw);
+}
+.bf__left {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-14vw);
+}
+.bf__top {
+	width: 26vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(14vw);
+}
+.bf__bottom {
+	width: 26vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-26vw);
+}
+.bf__front {
+	background-color: #E9EBDB;
+}
+.bf__back {
+	background-color: #AAAAAA;
+}
+.bf__right {
+	background-color: #AAAAAA;
+	border-left: 0.125vw solid #919191;
+}
+.bf__left {
+	background-color: #E9EBDB;
+	border-right: 0.125vw solid #d5d9ba;
+}
+.bf__top {
+	background-color: #DEE0D3;
+	border-bottom: 0.125vw solid #c8cbb5;
+}
+.bf__bottom {
+	background-color: #AAAAAA;
+}
+.ffa {
+	width: 12vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	right: 0;
+}
+.ffa__front {
+	width: 12vw;
+	height: 14vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-11vw);
+}
+.ffa__back {
+	width: 12vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-14vw);
+}
+.ffa__right {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-3vw) translateY(-14vw);
+}
+.ffa__left {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-14vw);
+}
+.ffa__top {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(14vw);
+}
+.ffa__bottom {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.ffa__front {
+	background-color: #E9EBDB;
+}
+.ffa__front-circles {
+	width: 100%;
+	height: 80%;
+	padding: 3vw 2vw 1vw;
+	background-image: linear-gradient(-90deg, transparent 0%, transparent 50%, #E9EBDB 50%, #E9EBDB 100%), linear-gradient(0deg, #383832 0%, #383832 50%, #E9EBDB 50%, #E9EBDB 100%);
+	background-size: .9vw .9vw;
+	background-clip: content-box;
+}
+.ffa__back {
+	background-color: #DEE0D3;
+}
+.ffa__right {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	padding-top: 3vw;
+	background-color: #AAAAAA;
+}
+.ffa__left {
+	background-color: #DEE0D3;
+}
+.ffa__top {
+	background-color: #DEE0D3;
+}
+.ffa__bottom {
+	background-color: #AAAAAA;
+}
+.range {
+	width: 0.4vw;
+	height: 0.6vw;
+	position: absolute;
+}
+.range__front {
+	width: 0.4vw;
+	height: 0.3vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(0.9vw);
+}
+.range__back {
+	width: 0.4vw;
+	height: 0.3vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-0.4vw) translateY(-0.3vw);
+}
+.range__right {
+	width: 1.2vw;
+	height: 0.3vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(0.4vw) translateX(-1.2vw) translateY(-0.3vw);
+}
+.range__left {
+	width: 1.2vw;
+	height: 0.3vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-0.3vw);
+}
+.range__top {
+	width: 0.4vw;
+	height: 1.2vw;
+	transform-origin: top left;
+	transform: translateZ(0.3vw);
+}
+.range__bottom {
+	width: 0.4vw;
+	height: 1.2vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-0.4vw);
+}
+.range__front {
+	background-color: #1d1d1a;
+}
+.range__back {
+	background-color: #2b2b26;
+}
+.range__right {
+	background-color: #2b2b26;
+}
+.range__left {
+	background-color: #383832;
+}
+.range__top {
+	background-color: #1d1d1a;
+}
+.range__bottom {
+	background-color: #1d1d1a;
+}
+.range__bottom::before {
+	content: &#39;&#39;;
+	position: absolute;
+	width: 100%;
+	height: 5vw;
+	transform: translateZ(-1px);
+	background-color: #666666;
+}
+.ffb {
+	width: 2vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	left: 0;
+}
+.ffb__front {
+	width: 2vw;
+	height: 14vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-11vw);
+}
+.ffb__back {
+	width: 2vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-2vw) translateY(-14vw);
+}
+.ffb__right {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(2vw) translateX(-3vw) translateY(-14vw);
+}
+.ffb__left {
+	width: 3vw;
+	height: 14vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-14vw);
+}
+.ffb__top {
+	width: 2vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(14vw);
+}
+.ffb__bottom {
+	width: 2vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-2vw);
+}
+.ffb__front {
+	background-color: #E9EBDB;
+}
+.ffb__back {
+	background-color: #DEE0D3;
+}
+.ffb__right {
+	background-color: #AAAAAA;
+}
+.ffb__left {
+	background-color: #E9EBDB;
+}
+.ffb__top {
+	background-color: #DEE0D3;
+}
+.ffb__bottom {
+	background-color: #AAAAAA;
+}
+.ffc {
+	width: 12vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	left: 2vw;
+	transform: translateZ(11vw);
+}
+.ffc__front {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(0vw);
+}
+.ffc__back {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-3vw);
+}
+.ffc__right {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-3vw) translateY(-3vw);
+}
+.ffc__left {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-3vw);
+}
+.ffc__top {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(3vw);
+}
+.ffc__bottom {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.ffc__front {
+	background-color: #E9EBDB;
+}
+.ffc__back {
+	background-color: #DEE0D3;
+}
+.ffc__right {
+	background-color: #AAAAAA;
+}
+.ffc__left {
+	background-color: #E9EBDB;
+}
+.ffc__top {
+	background-color: #DEE0D3;
+}
+.ffc__bottom {
+	background-color: #AAAAAA;
+}
+.ffd {
+	width: 12vw;
+	height: 1.5vw;
+	position: absolute;
+	top: 50%;
+	left: 2vw;
+	transform: translateZ(2vw);
+}
+.ffd__front {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(0vw);
+}
+.ffd__back {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-3vw);
+}
+.ffd__right {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-3vw) translateY(-3vw);
+}
+.ffd__left {
+	width: 3vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-3vw);
+}
+.ffd__top {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(3vw);
+}
+.ffd__bottom {
+	width: 12vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.ffd__front {
+	background-color: #E9EBDB;
+}
+.ffd__back {
+	background-color: #DEE0D3;
+}
+.ffd__right {
+	background-color: #AAAAAA;
+}
+.ffd__left {
+	background-color: #E9EBDB;
+}
+.ffd__top {
+	background-color: #AAAAAA;
+}
+.ffd__bottom {
+	background-color: #AAAAAA;
+}
+.buttons {
+	position: absolute;
+	left: 2vw;
+	width: 12vw;
+	height: 50%;
+	bottom: 0;
+	transform: translateZ(0.1vw);
+}
+.button {
+	width: 2.875vw;
+	height: 1.5vw;
+	position: absolute;
+}
+.button__front {
+	width: 2.875vw;
+	height: 1.8vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(1.2vw);
+}
+.button__back {
+	width: 2.875vw;
+	height: 1.8vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-2.875vw) translateY(-1.8vw);
+}
+.button__right {
+	width: 3vw;
+	height: 1.8vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(2.875vw) translateX(-3vw) translateY(-1.8vw);
+}
+.button__left {
+	width: 3vw;
+	height: 1.8vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-1.8vw);
+}
+.button__top {
+	width: 2.875vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: translateZ(1.8vw);
+}
+.button__bottom {
+	width: 2.875vw;
+	height: 3vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-2.875vw);
+}
+.button:nth-of-type(1) {
+	left: .1vw;
+}
+.button:nth-of-type(2) {
+	left: 3.1vw;
+}
+.button:nth-of-type(3) {
+	left: 6.1vw;
+}
+.button:nth-of-type(4) {
+	left: 9.1vw;
+}
+.button__front {
+	background-color: #e7e9d8;
+}
+.button__back {
+	background-color: #DEE0D3;
+}
+.button__right {
+	background-color: #9d9d9d;
+}
+.button__left {
+	background-color: #E9EBDB;
+}
+.button__top {
+	background-color: #9d9d9d;
+}
+.button__bottom {
+	background-color: #AAAAAA;
+}
+.button--cta:hover .button__front {
+	background-color: #ff6f04;
+	transition: .1s;
+	cursor: pointer;
+}
+.button--cta .button__front {
+	background-color: #ff7814;
+}
+.button--cta .button__back {
+	background-color: #ff6f04;
+}
+.button--cta .button__right {
+	background-color: #f96a00;
+}
+.button--cta .button__left {
+	background-color: #ff7814;
+}
+.button--cta .button__top {
+	background-color: #f96a00;
+}
+.button--cta .button__bottom {
+	background-color: #ff6f04;
+}
+.cover {
+	position: absolute;
+	left: 2vw;
+	width: 12vw;
+	height: 50%;
+	bottom: 0;
+	transform: translateZ(5vw) rotateX(-20deg);
+	transition: .2s;
+}
+.cover-b {
+	width: 12vw;
+	height: 0.1vw;
+	position: absolute;
+	bottom: 0;
+	left: .1vw;
+}
+.cover-b__front {
+	width: 12vw;
+	height: 6vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-5.8vw);
+}
+.cover-b__back {
+	width: 12vw;
+	height: 6vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-12vw) translateY(-6vw);
+}
+.cover-b__right {
+	width: 0.2vw;
+	height: 6vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(12vw) translateX(-0.2vw) translateY(-6vw);
+}
+.cover-b__left {
+	width: 0.2vw;
+	height: 6vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-6vw);
+}
+.cover-b__top {
+	width: 12vw;
+	height: 0.2vw;
+	transform-origin: top left;
+	transform: translateZ(6vw);
+}
+.cover-b__bottom {
+	width: 12vw;
+	height: 0.2vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-12vw);
+}
+.cover-b__front {
+	background-color: rgba(233, 235, 219, 0.1);
+	border: 0.11vw solid #DEE0D3;
+	border-bottom: 0.1vw solid #AAAAAA;
+	box-shadow: inset 1.125vw 1.125vw 0 #E9EBDB, inset -1.125vw -1.125vw 0 #E9EBDB;
+}
+.cover-b__back {
+	background-color: #DEE0D3;
+}
+.cover-b__right {
+	background-color: #AAAAAA;
+}
+.cover-b__left {
+	background-color: #DEE0D3;
+}
+.cover-b__top {
+	background-color: #DEE0D3;
+}
+.cover-b__bottom {
+	background-color: #AAAAAA;
+}
+.cassete {
+	width: 11vw;
+	height: 1vw;
+	position: absolute;
+	left: 2.5vw;
+	width: 12vw;
+	height: 50%;
+	bottom: -10%;
+	transform: translateZ(5.5vw);
+}
+.cassete__front {
+	width: 11vw;
+	height: 5vw;
+	transform-origin: bottom left;
+	transform: rotateX(-90deg) translateZ(-3vw);
+}
+.cassete__back {
+	width: 11vw;
+	height: 5vw;
+	transform-origin: top left;
+	transform: rotateX(-90deg) rotateY(180deg) translateX(-11vw) translateY(-5vw);
+}
+.cassete__right {
+	width: 2vw;
+	height: 5vw;
+	transform-origin: top left;
+	transform: rotateY(90deg) rotateZ(-90deg) translateZ(11vw) translateX(-2vw) translateY(-5vw);
+}
+.cassete__left {
+	width: 2vw;
+	height: 5vw;
+	transform-origin: top left;
+	transform: rotateY(-90deg) rotateZ(90deg) translateY(-5vw);
+}
+.cassete__top {
+	width: 11vw;
+	height: 2vw;
+	transform-origin: top left;
+	transform: translateZ(5vw);
+}
+.cassete__bottom {
+	width: 11vw;
+	height: 2vw;
+	transform-origin: top left;
+	transform: rotateY(180deg) translateX(-11vw);
+}
+.cassete__line {
+	position: absolute;
+	bottom: .3vw;
+	width: 50%;
+	height: .3vw;
+	background-color: #ff8123;
+	z-index: 10;
+	border-radius: 1vw;
+}
+.cassete__front {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #E9EBDB;
+	border: 1vw solid #383832;
+	border-left: 1.35vw solid #383832;
+	border-right: 1.35vw solid #383832;
+}
+.cassete__front::before, .cassete__front::after {
+	content: &#39;&#39;;
+	position: relative;
+	width: 1.4vw;
+	height: 1.4vw;
+	border-radius: 50%;
+	background-color: #383832;
+}
+.cassete__back {
+	background-color: #2b2b26;
+}
+.cassete__right {
+	background-color: #1d1d1a;
+}
+.cassete__left {
+	background-color: #383832;
+}
+.cassete__top {
+	background-color: #2b2b26;
+}
+.cassete__bottom {
+	background-color: #1d1d1a;
+}
+.is-radio-active {
+	animation: radio .6s infinite alternate ease-in-out;
+}
+.is-shadow-active {
+	animation: shadow .6s infinite alternate ease-in-out;
+}
+.is-button-active {
+	transform: translateY(-0.4vw) translateZ(0.5vw) rotateX(-10deg);
+	transition: .1s;
+}
+.is-button-active .button__front {
+	background-color: #f96a00;
+}
+.is-cover-active {
+	transform: translateZ(5vw);
+	transition: .2s;
+}
+.is-circle-active {
+	animation: circle .2s infinite alternate 1s;
+}
+@keyframes radio {
+	0%, 85% {
+		transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-9vw) rotateY(0deg);
+	}
+	30%, 50%, 80% {
+		transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-8.8vw) rotateY(-2deg);
+	}
+	60%, 100% {
+		transform: perspective(10000px) rotateX(80deg) rotateZ(40deg) translateZ(-8.8vw) rotateY(2deg);
+	}
+}
+@keyframes shadow {
+	0%, 85% {
+		height: 400%;
+		left: 0%;
+	}
+	30%, 50%, 80% {
+		height: 410%;
+		left: 3%;
+	}
+	60%, 100% {
+		height: 400%;
+		left: 0%;
+	}
+}
+@keyframes circle {
+	0%, 10%, 30%, 50%, 80% {
+		background-size: .9vw .9vw;
+	}
+	20%, 70%, 90%, 100% {
+		background-size: .91vw .91vw;
+	}
+}
+     
+&lt;/style&gt;
+
+&lt;script&gt;
+    
+
+
+
+const b = document.body;
+const radio = document.querySelector(&#34;#radio&#34;);
+const shadow= document.querySelector(&#34;#shadow&#34;);
+const buttonCta = document.querySelector(&#34;#button-cta&#34;);
+const cover = document.querySelector(&#34;#cover&#34;);
+const circles = document.querySelector(&#34;#circles&#34;);
+
+const a = document.querySelector(&#34;#audio&#34;);
+const son = document.querySelector(&#34;#son&#34;);
+const soff = document.querySelector(&#34;#soff&#34;);
+
+
+ 
+const radioPlaying = () =&gt; {
+    radio.classList.toggle(&#39;is-radio-active&#39;)
+    shadow.classList.toggle(&#39;is-shadow-active&#39;)
+    buttonCta.classList.toggle(&#39;is-button-active&#39;)
+    cover.classList.toggle(&#39;is-cover-active&#39;)
+    
+
+    a.loop = true;
+
+    if (a.paused) a.play();
+    else {
+        a.pause();
+        a.currentTime = 0;
+    }
+
+    son.classList.toggle(&#34;s&#34;);
+    soff.classList.toggle(&#34;s&#34;);
+	return a.paused;
+}
+
+ 
+buttonCta.addEventListener(&#34;click&#34;, radioPlaying)
+soff.addEventListener(&#34;click&#34;, radioPlaying)
+son.addEventListener(&#34;click&#34;, radioPlaying)
+
+const songs = {
+	&#34;1&#34;: {
+		&#34;artist&#34;: &#34;Dominique Mara&#34;,
+		&#34;title&#34;: &#34;pepupape&#34;,
+		&#34;url&#34;: &#34;/my_blog/audio/Dominique Mara - pepupape.mp3&#34;
+	},
+	&#34;2&#34;: {
+		&#34;artist&#34;: &#34;runnit&#34;,
+		&#34;title&#34;: &#34;offmydick&#34;,
+		&#34;url&#34;: &#34;/my_blog/audio/runnit - offmydick.mp3&#34;
+	},
+	
+};
+
+function loadSong() {
+	const songList = document.querySelector(&#34;.songs&#34;);
+	
+	for (const songId in songs) {
+		const song = songs[songId];
+		const songTitle = song.title;
+		const songArtist = song.artist;
+		
+		songList.innerHTML += `
+			&lt;li class=&#34;song&#34;&gt;
+				&lt;input type=&#34;radio&#34; name=&#34;song&#34; id=&#34;song_${songId}&#34; class=&#34;song__checkbox&#34;&gt;
+				&lt;label for=&#34;song_${songId}&#34; class=&#34;song__title&#34;&gt;${songTitle}&lt;/label&gt;
+				&lt;label for=&#34;song_${songId}&#34; class=&#34;song__dash&#34;&gt;-&lt;/label&gt;
+				&lt;label for=&#34;song_${songId}&#34; class=&#34;song__artist_name&#34;&gt;${songArtist}&lt;/label&gt;
+			&lt;/li&gt;`;
+	}
+
+	const radioButtons = document.getElementsByName(&#34;song&#34;);
+	const audioElement = document.getElementById(&#34;audio&#34;);
+	
+	radioButtons.forEach(button =&gt; {
+		button.addEventListener(&#34;change&#34;, function() {
+			console.log(this.checked);
+			if (this.checked) {
+				
+				radioButtons.forEach(btn =&gt; {
+					btn.parentElement.style.backgroundColor = &#34;rgba(0, 0, 0, 0.2)&#34;;
+				});
+				
+				
+				const parent = this.parentElement;
+				parent.style.backgroundColor = &#34;rgba(0, 0, 0, 0.5)&#34;;
+				
+				if (!a.paused) {
+					radio.classList.remove(&#39;is-radio-active&#39;);
+					shadow.classList.remove(&#39;is-shadow-active&#39;);
+					buttonCta.classList.remove(&#39;is-button-active&#39;);
+					cover.classList.remove(&#39;is-cover-active&#39;);
+					son.classList.remove(&#34;s&#34;);
+					soff.classList.remove(&#34;s&#34;);
+					a.pause();
+					a.currentTime = 0;
+				}
+				
+				this.parentElement.classList.add(&#39;selected-song&#39;);
+				const prevSelected = document.querySelector(&#39;.selected-song:not(:has(#&#39; + this.id + &#39;))&#39;);
+				if (prevSelected) {
+					prevSelected.classList.remove(&#39;selected-song&#39;);
+				}
+				const songId = this.id.split(&#34;_&#34;)[1];
+				const selectedSongUrl = songs[songId].url;
+				audioElement.src = selectedSongUrl;
+			}
+		});
+	});}loadSong();
+&lt;/script&gt;
 </content>
     </item>
     

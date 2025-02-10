@@ -20,7 +20,7 @@ defaultContentLanguage = 'ru'
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 10
 
   # show selector to switch language
   showLanguageSelector = false
@@ -93,20 +93,26 @@ defaultContentLanguage = 'ru'
     minuteReadingTime = "мин чтения"
     words = "слов"
 
-    [languages.ru.params.logo]
-      logoText = "T3M14"
-      logoHomeLink = "/my_blog/"
+[[languages.ru.menu.main]]
+  identifier = "about"
+  name = "О сайте"
+  url = "/about/"
+  weight = 1
 
-    [languages.ru.menu]
-      [[languages.ru.menu.main]]
-        identifier = "about"
-        name = "О сайте"
-        url = "/about/"
-      [[languages.ru.menu.main]]
-        identifier = "showcase"
-        name = "Портфолио"
-        url = "/showcase/"
-      [[languages.ru.menu.main]]
-        identifier = "future"
-        name = "Планы на будущее"
-        url = "/future/"
+[[languages.ru.menu.main]]
+  identifier = "future"
+  name = "Планы на будущее"
+  url = "/future/"
+  weight = 2
+
+[[languages.ru.menu.main]]
+  identifier = "showcase"
+  name = "Портфолио"
+  url = "/showcase/"
+  weight = 3
+
+[[languages.ru.menu.main]]
+  identifier = "music"
+  name = "Музыкальный"
+  url = "/music/"
+  weight = 4

@@ -6,7 +6,27 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 10 Feb 2025 10:40:57 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Feb 2025 10:54:16 +0300</lastBuildDate><atom:link href="http://localhost:1313/my_blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ban</title>
+      <link>http://localhost:1313/my_blog/tags/ban/</link>
+      <pubDate>Mon, 10 Feb 2025 10:54:16 +0300</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/tags/ban/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Telegram</title>
+      <link>http://localhost:1313/my_blog/tags/telegram/</link>
+      <pubDate>Mon, 10 Feb 2025 10:54:16 +0300</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/tags/telegram/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>Photoshop</title>
       <link>http://localhost:1313/my_blog/tags/photoshop/</link>
@@ -43,16 +63,6 @@
       <pubDate>Mon, 10 Feb 2025 10:40:57 +0300</pubDate>
       
       <guid>http://localhost:1313/my_blog/tags/%D1%84%D0%BE%D1%82%D0%BE/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Telegram</title>
-      <link>http://localhost:1313/my_blog/tags/telegram/</link>
-      <pubDate>Sat, 08 Feb 2025 11:21:31 +0300</pubDate>
-      
-      <guid>http://localhost:1313/my_blog/tags/telegram/</guid>
       <description></description>
       <content></content>
     </item>
