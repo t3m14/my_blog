@@ -92,7 +92,9 @@ defaultContentLanguage = 'ru'
     missingBackButtonLabel = "Вернуться на главную"
     minuteReadingTime = "мин чтения"
     words = "слов"
-
+[languages.en.params.logo]
+      logoText = "T3M14"
+      logoHomeLink = "/"
 [[languages.ru.menu.main]]
   identifier = "about"
   name = "О сайте"
